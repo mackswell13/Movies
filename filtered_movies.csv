@@ -1,0 +1,1034 @@
+,Movie,Rating,Votes,Meta.Score,Genre,Advised Audience,Year,Duration,Cast,Director,revenue,Budget
+1,Wonka,7.4,24000,66,"Adventure, Comedy, Family",PG,2023,1h 56m,"Timothée Chalamet, Gustave Die, Murray McArthur, Paul G. Raymond",Paul King,0,1.25E+08
+2,Poor Things,8.5,6700,86,"Comedy, Drama, Romance",R,2023,2h 21m,"Emma Stone, Mark Ruffalo, Willem Dafoe, Ramy Youssef",Yorgos Lanthimos,0,7.00E+07
+3,Killers of the Flower Moon,7.8,128000,89,"Crime, Drama, History",R,2023,3h 26m,"Leonardo DiCaprio, Robert De Niro, Lily Gladstone, Jesse Plemons",Martin Scorsese,0,1.70E+08
+4,May December,7,21000,85,"Comedy, Drama",R,2023,1h 57m,"Natalie Portman, Chris Tenzis, Charles Melton, Julianne Moore",Todd Haynes,0,0
+5,The Hunger Games: The Ballad of Songbirds & Snakes,7.1,56000,54,"Action, Adventure, Drama",PG-13,2023,2h 37m,"Rachel Zegler, Tom Blyth, Viola Davis, Dexter Sol Ansell",Francis Lawrence,0,0
+6,Napoleon,6.6,66000,64,"Action, Adventure, Biography",R,2023,2h 38m,"Joaquin Phoenix, Vanessa Kirby, Tahar Rahim, Rupert Everett",Ridley Scott,0,0
+7,Oppenheimer,8.4,553000,89,"Biography, Drama, History",R,2023,3h,"Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr.",Christopher Nolan,933700000,1.00E+08
+8,Barbie,7,417000,80,"Adventure, Comedy, Fantasy",PG-13,2023,1h 54m,"Margot Robbie, Ryan Gosling, Issa Rae, Kate McKinnon",Greta Gerwig,1428545028,1.45E+08
+9,Rebel Moon - Part One: A Child of Fire,6.3,1900,32,"Action, Adventure, Drama",PG-13,2023,2h 13m,"Sofia Boutella, Charlie Hunnam, Ed Skrein, Jena Malone",Zack Snyder,0,8.30E+07
+10,The Holdovers,8,24000,82,"Comedy, Drama",R,2023,2h 13m,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston",Alexander Payne,0,0
+11,Family Switch,5.6,16000,37,"Comedy, Family",PG,2023,1h 46m,"Jennifer Garner, Ed Helms, Emma Myers, Brady Noon",McG,0,0
+12,Indiana Jones and the Dial of Destiny,6.6,159000,58,"Action, Adventure, Sci-Fi",PG-13,2023,2h 34m,"Harrison Ford, Phoebe Waller-Bridge, Antonio Banderas, Karen Allen",James Mangold,382891104,294700000
+13,Elf,7.1,3.00E+05,66,"Adventure, Comedy, Family",PG,2003,1h 37m,"Will Ferrell, James Caan, Bob Newhart, Zooey Deschanel",Jon Favreau,225097437,3.20E+07
+14,How the Grinch Stole Christmas,6.3,280000,46,"Comedy, Family, Fantasy",PG,2000,1h 44m,"Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor",Ron Howard,345823040,1.23E+08
+15,Fast Charlie,5.9,3700,70,"Action, Crime, Drama",NA,2023,1h 30m,"Pierce Brosnan, Morena Baccarin, James Caan, Gbenga Akinnagbe",Phillip Noyce,0,0
+16,The Creator,6.9,92000,63,"Action, Adventure, Drama",PG-13,2023,2h 13m,"John David Washington, Madeleine Yuna Voyles, Gemma Chan, Allison Janney",Gareth Edwards,0,8.00E+07
+17,Die Hard,8.2,924000,72,"Action, Thriller",R,1988,2h 12m,"Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",John McTiernan,140767956,2.80E+07
+18,The Killer,6.8,140000,73,"Action, Adventure, Crime",R,2023,1h 58m,"Michael Fassbender, Tilda Swinton, Charles Parnell, Arliss Howard",David Fincher,2350174,0
+19,Home Alone 2: Lost in New York,6.9,389000,46,"Adventure, Comedy, Crime",PG,1992,2h,"Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara",Chris Columbus,358994850,1.80E+07
+20,A Haunting in Venice,6.5,84000,63,"Crime, Drama, Horror",PG-13,2023,1h 43m,"Kenneth Branagh, Michelle Yeoh, Jamie Dornan, Tina Fey",Kenneth Branagh,89800000,6.00E+07
+21,The Polar Express,6.6,233000,61,"Animation, Adventure, Comedy",G,2004,1h 40m,"Tom Hanks, Chris Coppola, Michael Jeter, Leslie Zemeckis",Robert Zemeckis,310634054,1.65E+08
+22,The Shift,6.4,2400,NA,NA,PG-13,2023,1h 55m,NA,NA,0,0
+23,Christmas on Cherry Lane,6.2,689,NA,NA,TV-G,2023,1h 30m,NA,NA,0,0
+24,Finestkind,5.8,1900,44,"Crime, Drama, Thriller",R,2023,2h 6m,"Ben Foster, Toby Wallace, Jenna Ortega, Tommy Lee Jones",Brian Helgeland,0,0
+25,Thanksgiving,6.8,15000,63,"Horror, Mystery, Thriller",R,2023,1h 46m,"Patrick Dempsey, Ty Olsson, Gina Gershon, Gabriel Davenport",Eli Roth,0,0
+26,The Holiday,6.9,312000,52,"Comedy, Romance",PG-13,2006,2h 16m,"Kate Winslet, Cameron Diaz, Jude Law, Jack Black",Nancy Meyers,194168700,8.50E+07
+27,A Christmas Story,7.9,165000,77,"Comedy, Family",PG,1983,1h 33m,"Peter Billingsley, Melinda Dillon, Darren McGavin, Scott Schwartz",Bob Clark,20653717,3300000
+28,Scrooged,6.9,113000,38,"Comedy, Drama, Fantasy",PG-13,1988,1h 41m,"Bill Murray, Karen Allen, John Forsythe, John Glover",Richard Donner,60328558,3.20E+07
+29,Ferrari,6.7,1800,74,"Biography, Drama, History",R,2023,2h 10m,"Adam Driver, Shailene Woodley, Giuseppe Festinese, Alessandro Cremona",Michael Mann,0,0
+30,Charlie and the Chocolate Factory,6.7,514000,72,"Adventure, Comedy, Family",PG,2005,1h 55m,"Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter",Tim Burton,474968763,1.50E+08
+31,Lady Ballers,6.2,9200,NA,NA,TV-14,2023,1h 52m,NA,NA,0,0
+32,Mission: Impossible - Dead Reckoning Part One,7.8,202000,81,"Action, Adventure, Thriller",PG-13,2023,2h 43m,"Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg",Christopher McQuarrie,563148955,2.91E+08
+33,Asteroid City,6.6,91000,75,"Comedy, Drama, Romance",PG-13,2023,1h 45m,"Jason Schwartzman, Scarlett Johansson, Tom Hanks, Jeffrey Wright",Wes Anderson,47281670,2.50E+07
+34,Dune,8,734000,74,"Action, Adventure, Drama",PG-13,2021,2h 35m,"Timothée Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac",Denis Villeneuve,402027830,1.65E+08
+35,Spirited,6.6,46000,55,"Comedy, Family, Musical",PG-13,2022,2h 7m,"Will Ferrell, Ryan Reynolds, Octavia Spencer, Patrick Page",Sean Anders,0,7.50E+07
+36,Miracle on 34th Street,6.6,42000,NA,NA,PG,1994,1h 54m,NA,NA,46264384,0
+37,Priscilla,6.9,8400,78,"Biography, Drama, Music",R,2023,1h 53m,"Cailee Spaeny, Jacob Elordi, Ari Cohen, Dagmara Dominczyk",Sofia Coppola,0,0
+38,The Batman,7.8,751000,72,"Action, Crime, Drama",PG-13,2022,2h 56m,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell",Matt Reeves,770945583,1.85E+08
+39,Harry Potter and the Sorcerer's Stone,7.6,838000,65,"Adventure, Family, Fantasy",PG,2001,2h 32m,"Daniel Radcliffe, Rupert Grint, Richard Harris, Maggie Smith",Chris Columbus,NA,NA
+40,Interstellar,8.7,2.00E+06,74,"Adventure, Drama, Sci-Fi",PG-13,2014,2h 49m,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",Christopher Nolan,701729206,1.65E+08
+41,Migration,7.1,848,NA,NA,PG,2023,1h 32m,NA,NA,0,0
+42,The Shawshank Redemption,9.3,2800000,82,Drama,R,1994,2h 22m,"Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",Frank Darabont,28341469,2.50E+07
+43,Silver and the Book of Dreams,5.5,1200,NA,NA,NA,2023,1h 32m,NA,NA,NA,NA
+44,A Christmas Carol,6.8,127000,55,"Animation, Adventure, Comedy",PG,2009,1h 36m,"Jim Carrey, Gary Oldman, Colin Firth, Steve Valentine",Robert Zemeckis,325286646,2.00E+08
+45,Last Christmas,6.5,87000,50,"Comedy, Drama, Fantasy",PG-13,2019,1h 43m,"Madison Ingoldsby, Emma Thompson, Boris Isakovic, Lucy Miller",Paul Feig,121550750,3.00E+07
+46,The Suicide Squad,7.2,395000,72,"Action, Adventure, Comedy",R,2021,2h 12m,"Margot Robbie, Idris Elba, John Cena, Joel Kinnaman",James Gunn,168717425,1.85E+08
+47,The Godfather,9.2,2.00E+06,100,"Crime, Drama",R,1972,2h 55m,"Marlon Brando, Al Pacino, James Caan, Diane Keaton",Francis Ford Coppola,245066411,6.00E+06
+48,The Wolf of Wall Street,8.2,1500000,75,"Biography, Comedy, Crime",R,2013,3h,"Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",Martin Scorsese,3.92E+08,1.00E+08
+49,The Equalizer 3,6.9,78000,58,"Action, Crime, Thriller",R,2023,1h 49m,"Denzel Washington, Dakota Fanning, Eugenio Mastrandrea, David Denman",Antoine Fuqua,158300000,7.00E+07
+50,John Wick: Chapter 4,7.7,308000,78,"Action, Crime, Thriller",R,2023,2h 49m,"Keanu Reeves, Laurence Fishburne, George Georgiou, Lance Reddick",Chad Stahelski,426978565,9.00E+07
+51,Gran Turismo,7.2,66000,48,"Action, Adventure, Drama",PG-13,2023,2h 14m,"David Harbour, Orlando Bloom, Archie Madekwe, Takehiro Hira",Neill Blomkamp,114800000,6.00E+07
+52,Four Christmases,5.7,79000,41,"Comedy, Drama, Romance",PG-13,2008,1h 28m,"Reese Witherspoon, Vince Vaughn, Mary Steenburgen, Robert Duvall",Seth Gordon,164112721,8.00E+07
+53,Mad Max: Fury Road,8.1,1100000,90,"Action, Adventure, Sci-Fi",R,2015,2h,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",George Miller,378858340,1.50E+08
+54,Home Alone 3,4.6,124000,NA,NA,PG,1997,1h 42m,NA,NA,79082515,3.20E+07
+55,Glory,7.8,142000,78,"Biography, Drama, History",R,1989,2h 2m,"Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman",Edward Zwick,26828365,1.80E+07
+56,Your Christmas or Mine 2,5.8,1700,NA,NA,NA,2023,1h 41m,NA,NA,0,0
+57,In the Land of Saints and Sinners,6.1,3300,NA,NA,R,2023,1h 46m,NA,NA,0,0
+58,The Lord of the Rings: The Fellowship of the Ring,8.8,2.00E+06,92,"Action, Adventure, Drama",PG-13,2001,2h 58m,"Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",Peter Jackson,871368364,9.30E+07
+59,Pride & Prejudice,7.8,322000,82,"Drama, Romance",PG,2005,2h 9m,"Keira Knightley, Matthew Macfadyen, Brenda Blethyn, Donald Sutherland",Joe Wright,121616555,2.80E+07
+60,Gladiator,8.5,1600000,67,"Action, Adventure, Drama",R,2000,2h 35m,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",Ridley Scott,465361176,1.03E+08
+61,The Hunger Games: Catching Fire,7.5,707000,76,"Action, Adventure, Sci-Fi",PG-13,2013,2h 26m,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman",Francis Lawrence,865011746,1.30E+08
+62,The Dark Knight,9,2800000,84,"Action, Crime, Drama",PG-13,2008,2h 32m,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",Christopher Nolan,1004558444,1.85E+08
+63,Blade Runner 2049,8,637000,81,"Action, Drama, Mystery",R,2017,2h 44m,"Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista",Denis Villeneuve,259239658,1.50E+08
+64,Pulp Fiction,8.9,2200000,95,"Crime, Drama",R,1994,2h 34m,"John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",Quentin Tarantino,213900000,8500000
+65,The Silencing,6.2,32000,NA,NA,R,2020,1h 33m,NA,NA,0,0
+66,Scott Pilgrim vs. the World,7.5,458000,69,"Action, Comedy, Fantasy",PG-13,2010,1h 52m,"Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Anna Kendrick",Edgar Wright,4.80E+07,8.50E+07
+67,Holiday in the Vineyards,6.4,650,NA,NA,PG,2023,1h 47m,NA,NA,NA,NA
+68,Guardians of the Galaxy Vol. 3,7.9,352000,64,"Action, Adventure, Comedy",PG-13,2023,2h 30m,"Chris Pratt, Chukwudi Iwuji, Bradley Cooper, Pom Klementieff",James Gunn,845430302,2.50E+08
+69,Fight Club,8.8,2300000,67,Drama,R,1999,2h 19m,"Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier",David Fincher,100853753,6.30E+07
+70,Top Gun: Maverick,8.3,647000,78,"Action, Drama",PG-13,2022,2h 10m,"Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer",Joseph Kosinski,1488732821,1.70E+08
+71,Beverly Hills Cop,7.4,197000,66,"Action, Comedy, Crime",R,1984,1h 45m,"Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher",Martin Brest,316360478,1.40E+07
+72,Your Christmas or Mine?,6.4,8600,NA,NA,NA,2022,1h 35m,NA,NA,NA,NA
+73,Dungeons & Dragons: Honor Among Thieves,7.3,206000,72,"Action, Adventure, Comedy",PG-13,2023,2h 14m,"Chris Pine, Michelle Rodriguez, Regé-Jean Page, Justice Smith",John Francis DaleyJonathan Goldstein,208177026,1.51E+08
+74,The Oath,3.5,448,NA,NA,PG-13,2023,1h 44m,NA,NA,0,0
+75,Once Upon a Time in Hollywood,7.6,815000,83,"Comedy, Drama",R,2019,2h 41m,"Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",Quentin Tarantino,NA,NA
+76,Avatar: The Way of Water,7.6,472000,67,"Action, Adventure, Fantasy",PG-13,2022,3h 12m,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",James Cameron,2320250281,4.60E+08
+77,Inception,8.8,2500000,74,"Action, Adventure, Sci-Fi",PG-13,2010,2h 28m,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe",Christopher Nolan,825532764,1.60E+08
+78,The Goonies,7.7,293000,62,"Adventure, Comedy, Family",PG,1985,1h 54m,"Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman",Richard Donner,61389680,1.90E+07
+79,Godzilla,6.4,432000,62,"Action, Adventure, Sci-Fi",PG-13,2014,2h 3m,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe",Gareth Edwards,529076069,1.60E+08
+80,Babylon,7.1,155000,61,"Comedy, Drama, History",R,2022,3h 9m,"Brad Pitt, Margot Robbie, Jean Smart, Olivia Wilde",Damien Chazelle,63363579,7.80E+07
+81,Whiplash,8.5,953000,89,"Drama, Music",R,2014,1h 46m,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser",Damien Chazelle,13092000,3300000
+82,There's Something in the Barn,5.6,1900,NA,NA,R,2023,1h 40m,NA,NA,0,0
+83,Titanic,7.9,1300000,75,"Drama, Romance",PG-13,1997,3h 14m,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",James Cameron,2264162353,2.00E+08
+84,The Color Purple,7.7,94000,78,Drama,PG-13,1985,2h 34m,"Danny Glover, Whoopi Goldberg, Oprah Winfrey, Margaret Avery",Steven Spielberg,146292000,1.50E+07
+85,Journey to Bethlehem,6.2,1200,NA,NA,PG,2023,1h 39m,NA,NA,0,0
+86,Fargo,8.1,711000,86,"Crime, Thriller",R,1996,1h 38m,"William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare",Joel CoenEthan Coen,60611975,7.00E+06
+87,Dumb Money,6.9,21000,66,"Biography, Comedy, Drama",R,2023,1h 45m,"Paul Dano, Pete Davidson, Vincent D'Onofrio, America Ferrera",Craig Gillespie,0,0
+88,Requiem for a Dream,8.3,884000,71,Drama,Unrated,2000,1h 42m,"Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",Darren Aronofsky,7390108,4500000
+89,The Favourite,7.5,216000,91,"Biography, Comedy, Drama",R,2018,1h 59m,"Olivia Colman, Emma Stone, Rachel Weisz, Nicholas Hoult",Yorgos Lanthimos,95918706,1.50E+07
+90,Goodfellas,8.7,1200000,92,"Biography, Crime, Drama",R,1990,2h 25m,"Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",Martin Scorsese,NA,NA
+91,Midsommar,7.1,382000,72,"Drama, Horror, Mystery",R,2019,2h 28m,"Florence Pugh, Jack Reynor, Vilhelm Blomgren, William Jackson Harper",Ari Aster,47969371,9.00E+06
+92,Diary of a Wimpy Kid Christmas: Cabin Fever,5.8,723,NA,NA,PG,2023,1h 2m,NA,NA,0,0
+93,EXmas,5.8,3600,NA,NA,PG-13,2023,1h 33m,NA,NA,0,0
+94,The Gentlemen,7.8,378000,51,"Action, Crime",R,2019,1h 53m,"Matthew McConaughey, Charlie Hunnam, Michelle Dockery, Jeremy Strong",Guy Ritchie,115171795,2.20E+07
+95,Santa's Slay,5.3,11000,NA,NA,R,2005,1h 18m,NA,NA,0,0
+96,Inglourious Basterds,8.4,1500000,69,"Adventure, Drama, War",R,2009,2h 33m,"Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent",Quentin Tarantino,321457747,7.00E+07
+97,The Family Man,6.8,117000,42,"Comedy, Drama, Fantasy",PG-13,2000,2h 5m,"Nicolas Cage, Téa Leoni, Don Cheadle, Jeremy Piven",Brett Ratner,124700000,6.00E+07
+98,Black Swan,8,809000,79,"Drama, Thriller",R,2010,1h 48m,"Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder",Darren Aronofsky,329398046,1.30E+07
+99,Kingdom of Heaven,7.2,308000,63,"Action, Adventure, Drama",R,2005,2h 24m,"Orlando Bloom, Eva Green, Liam Neeson, Martin Hancock",Ridley Scott,218122627,1.30E+08
+100,The Naughty Nine,5.1,1500,NA,NA,TV-PG,2023,1h 23m,NA,NA,0,0
+101,The Northman,7,243000,82,"Action, Adventure, Drama",R,2022,2h 17m,"Alexander Skarsgård, Nicole Kidman, Claes Bang, Ethan Hawke",Robert Eggers,69633110,7.00E+07
+102,Prometheus,7,635000,64,"Adventure, Mystery, Sci-Fi",R,2012,2h 4m,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",Ridley Scott,403354469,1.30E+08
+103,Spider-Man: No Way Home,8.2,849000,71,"Action, Adventure, Fantasy",PG-13,2021,2h 28m,"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon",Jon Watts,1921847111,2.00E+08
+104,Se7en,8.6,1800000,65,"Crime, Drama, Mystery",R,1995,2h 7m,"Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",David Fincher,327311859,3.30E+07
+105,Pain Hustlers,6.5,32000,44,"Crime, Drama",R,2023,2h 3m,"Emily Blunt, Chris Evans, Catherine O'Hara, Chloe Coleman",David Yates,0,0
+106,Joker,8.4,1400000,59,"Crime, Drama, Thriller",R,2019,2h 2m,"Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",Todd Phillips,1074458282,5.50E+07
+107,The Flash,6.7,191000,55,"Action, Adventure, Fantasy",PG-13,2023,2h 24m,"Ezra Miller, Michael Keaton, Sasha Calle, Michael Shannon",Andy Muschietti,268375616,3.00E+08
+108,The Princess Bride,8,445000,78,"Adventure, Comedy, Family",PG,1987,1h 38m,"Cary Elwes, Mandy Patinkin, Robin Wright, Chris Sarandon",Rob Reiner,30861665,1.60E+07
+109,American Beauty,8.3,1200000,84,Drama,R,1999,2h 2m,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",Sam Mendes,356296601,1.50E+07
+110,Jurassic Park,8.2,1.00E+06,68,"Action, Adventure, Sci-Fi",PG-13,1993,2h 7m,"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",Steven Spielberg,920100000,6.30E+07
+111,Heat,8.3,703000,76,"Action, Crime, Drama",R,1995,2h 50m,"Al Pacino, Robert De Niro, Val Kilmer, Jon Voight",Michael Mann,187436818,6.00E+07
+112,Léon: The Professional,8.5,1200000,64,"Action, Crime, Drama",R,1994,1h 50m,"Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",Luc Besson,45284974,1.60E+07
+113,Harry Potter and the Goblet of Fire,7.7,667000,81,"Adventure, Family, Fantasy",PG-13,2005,2h 37m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Eric Sykes",Mike Newell,895921036,1.50E+08
+114,Little Women,7.8,234000,91,"Drama, Romance",PG,2019,2h 15m,"Saoirse Ronan, Emma Watson, Florence Pugh, Eliza Scanlen",Greta Gerwig,216601214,4.00E+07
+115,The Killing of a Sacred Deer,7,174000,73,"Drama, Horror, Mystery",R,2017,2h 1m,"Barry G. Bernson, Herb Caillouet, Bill Camp, Raffey Cassidy",Yorgos Lanthimos,7027336,0
+116,Fred Claus,5.7,47000,42,"Comedy, Family, Fantasy",PG,2007,1h 56m,"Vince Vaughn, Paul Giamatti, Elizabeth Banks, John Michael Higgins",David Dobkin,97838349,1.00E+08
+117,Eyes Wide Shut,7.5,367000,69,"Drama, Mystery, Thriller",TV-MA,1999,2h 39m,"Tom Cruise, Nicole Kidman, Todd Field, Sydney Pollack",Stanley Kubrick,162100000,6.50E+07
+118,Beau Is Afraid,6.8,49000,63,"Comedy, Drama, Horror",R,2023,2h 59m,"Joaquin Phoenix, Patti LuPone, Amy Ryan, Nathan Lane",Ari Aster,1.00E+07,3.50E+07
+119,Django Unchained,8.5,1700000,81,"Drama, Western",R,2012,2h 45m,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",Quentin Tarantino,425368238,1.00E+08
+120,Harry Potter and the Deathly Hallows: Part 2,8.1,929000,85,"Adventure, Family, Fantasy",PG-13,2011,2h 10m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",David Yates,1341511219,1.25E+08
+121,Schindler's List,9,1400000,95,"Biography, Drama, History",R,1993,3h 15m,"Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",Steven Spielberg,321365567,2.20E+07
+122,The Lord of the Rings: The Return of the King,9,1900000,94,"Action, Adventure, Drama",PG-13,2003,3h 21m,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",Peter Jackson,1118888979,9.40E+07
+123,The Departed,8.5,1400000,85,"Crime, Drama, Thriller",R,2006,2h 31m,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",Martin Scorsese,291465000,9.00E+07
+124,Bullet Train,7.3,398000,49,"Action, Comedy, Thriller",R,2022,2h 7m,"Brad Pitt, Joey King, Aaron Taylor-Johnson, Brian Tyree Henry",David Leitch,239268602,9.00E+07
+125,The Covenant,7.5,144000,63,"Action, Drama, Thriller",R,2023,2h 3m,"Jake Gyllenhaal, Dar Salim, Sean Sagar, Jason Wong",Guy Ritchie,37597471,2.00E+07
+126,Dashing Through the Snow,5.5,2600,NA,NA,PG,2023,1h 32m,NA,NA,0,0
+127,Beauty and the Beast,7.1,329000,65,"Adventure, Family, Fantasy",PG,2017,2h 9m,"Emma Watson, Dan Stevens, Luke Evans, Josh Gad",Bill Condon,1266115964,1.60E+08
+128,The Little Mermaid,7.2,147000,59,"Adventure, Family, Fantasy",PG,2023,2h 15m,"Halle Bailey, Jonah Hauer-King, Melissa McCarthy, Javier Bardem",Rob Marshall,211343479,4.00E+07
+129,Forrest Gump,8.8,2200000,82,"Drama, Romance",PG-13,1994,2h 22m,"Tom Hanks, Robin Wright, Gary Sinise, Sally Field",Robert Zemeckis,677387716,5.50E+07
+130,Lucy,6.4,526000,62,"Action, Sci-Fi, Thriller",R,2014,1h 29m,"Scarlett Johansson, Morgan Freeman, Choi Min-sik, Amr Waked",Luc Besson,458863600,4.00E+07
+131,There Will Be Blood,8.2,629000,93,Drama,R,2007,2h 38m,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer",Paul Thomas Anderson,77208711,2.50E+07
+132,Avengers: Endgame,8.4,1200000,78,"Action, Adventure, Drama",PG-13,2019,3h 1m,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",Anthony RussoJoe Russo,2.80E+09,3.56E+08
+133,Vacation,7.3,118000,55,"Adventure, Comedy",R,1983,1h 38m,"Chevy Chase, Beverly D'Angelo, Imogene Coca, Randy Quaid",Harold Ramis,104384188,3.10E+07
+134,No Country for Old Men,8.2,1.00E+06,92,"Crime, Drama, Thriller",R,2007,2h 2m,"Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",Ethan CoenJoel Coen,171627166,2.50E+07
+135,Raiders of the Lost Ark,8.4,1.00E+06,86,"Action, Adventure",PG,1981,1h 55m,"Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",Steven Spielberg,389925971,1.80E+07
+136,The Hunger Games: Mockingjay - Part 2,6.5,362000,65,"Action, Adventure, Sci-Fi",PG-13,2015,2h 17m,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",Francis Lawrence,653428261,1.60E+08
+137,The Matrix,8.7,2.00E+06,73,"Action, Sci-Fi",R,1999,2h 16m,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",Lana WachowskiLilly Wachowski,463517383,6.30E+07
+138,Watchmen,7.6,574000,56,"Action, Drama, Mystery",R,2009,2h 42m,"Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman",Zack Snyder,185258983,1.30E+08
+139,Apocalypse Now,8.4,699000,94,"Drama, Mystery, War",R,1979,2h 27m,"Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest",Francis Ford Coppola,1.50E+08,31500000
+140,Alien,8.5,931000,89,"Horror, Sci-Fi",R,1979,1h 57m,"Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright",Ridley Scott,104931801,1.10E+07
+141,Gone Girl,8.1,1.00E+06,79,"Drama, Mystery, Thriller",R,2014,2h 29m,"Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",David Fincher,369330363,6.10E+07
+142,Saving Private Ryan,8.6,1500000,91,"Drama, War",R,1998,2h 49m,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",Steven Spielberg,481840909,7.00E+07
+143,The Big Lebowski,8.1,847000,71,"Comedy, Crime",R,1998,1h 57m,"Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",Joel CoenEthan Coen,47010480,1.50E+07
+144,Twilight,5.3,481000,56,"Drama, Fantasy, Romance",PG-13,2008,2h 2m,"Kristen Stewart, Robert Pattinson, Billy Burke, Sarah Clarke",Catherine Hardwicke,393616788,3.70E+07
+145,The Raven,6.5,13000,NA,NA,G,1963,1h 26m,NA,NA,29657751,2.60E+07
+146,The Whale,7.7,193000,60,Drama,R,2022,1h 57m,"Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",Darren Aronofsky,55101305,3.00E+06
+147,Scarface,8.3,897000,65,"Crime, Drama",18+,1983,2h 50m,"Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio",Brian De Palma,66023329,2.50E+07
+148,Blade Runner,8.1,809000,84,"Action, Drama, Sci-Fi",R,1982,1h 57m,"Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos",Ridley Scott,41722424,2.80E+07
+149,Back to the Future,8.5,1300000,87,"Adventure, Comedy, Sci-Fi",PG,1985,1h 56m,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",Robert Zemeckis,381109762,1.90E+07
+150,The Green Mile,8.6,1400000,61,"Crime, Drama, Fantasy",R,1999,3h 9m,"Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt",Frank Darabont,286801374,6.00E+07
+151,Uncharted,6.3,246000,45,"Action, Adventure",PG-13,2022,1h 56m,"Tom Holland, Mark Wahlberg, Antonio Banderas, Sophia Ali",Ruben Fleischer,407141258,1.20E+08
+152,Barry Lyndon,8.1,179000,89,"Adventure, Drama, War",PG,1975,3h 5m,"Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger",Stanley Kubrick,198992,1.10E+07
+153,The Marsh King's Daughter,5.8,4700,46,"Crime, Drama, Mystery",R,2023,1h 49m,"Daisy Ridley, Ben Mendelsohn, Brooklynn Prince, Gil Birmingham",Neil Burger,0,0
+154,Harry Potter and the Prisoner of Azkaban,7.9,676000,82,"Adventure, Family, Fantasy",PG,2004,2h 22m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Richard Griffiths",Alfonso Cuarón,789804554,1.30E+08
+155,Don't Look Up,7.2,580000,49,"Comedy, Drama, Sci-Fi",R,2021,2h 18m,"Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep, Cate Blanchett",Adam McKay,791863,7.50E+07
+156,The Prestige,8.5,1400000,66,"Drama, Mystery, Sci-Fi",PG-13,2006,2h 10m,"Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",Christopher Nolan,109676311,4.00E+07
+157,Men,6.1,58000,65,"Drama, Fantasy, Horror",R,2022,1h 40m,"Jessie Buckley, Rory Kinnear, Paapa Essiedu, Gayle Rankin",Alex Garland,7168717,0
+158,Black Christmas,7.1,47000,65,"Horror, Mystery, Thriller",R,1974,1h 38m,"Olivia Hussey, Keir Dullea, Margot Kidder, John Saxon",Bob Clark,4053000,620000
+159,The Banshees of Inisherin,7.7,236000,87,"Comedy, Drama",R,2022,1h 54m,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt",Martin McDonagh,49262687,2.00E+07
+160,The Hunger Games: Mockingjay - Part 1,6.6,491000,64,"Action, Adventure, Sci-Fi",PG-13,2014,2h 3m,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",Francis Lawrence,755356711,1.25E+08
+161,Prisoners,8.1,785000,70,"Crime, Drama, Mystery",R,2013,2h 33m,"Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo",Denis Villeneuve,122126687,4.60E+07
+162,Trading Places,7.5,162000,69,Comedy,R,1983,1h 56m,"Eddie Murphy, Dan Aykroyd, Ralph Bellamy, Don Ameche",John Landis,90404800,1.50E+07
+163,Death on the Nile,6.3,180000,52,"Crime, Drama, Mystery",PG-13,2022,2h 7m,"Tom Bateman, Annette Bening, Kenneth Branagh, Russell Brand",Kenneth Branagh,137307235,9.00E+07
+164,Man of Steel,7.1,802000,55,"Action, Adventure, Sci-Fi",PG-13,2013,2h 23m,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",Zack Snyder,668045518,2.25E+08
+165,Santa Claus,6.2,15000,NA,NA,PG,1985,1h 47m,NA,NA,0,0
+166,Aquaman,6.8,507000,55,"Action, Adventure, Fantasy",PG-13,2018,2h 23m,"Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson",James Wan,1148528393,1.60E+08
+167,Shutter Island,8.2,1400000,63,"Mystery, Thriller",R,2010,2h 18m,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley",Martin Scorsese,294800000,8.00E+07
+168,Harry Potter and the Chamber of Secrets,7.4,677000,63,"Adventure, Family, Fantasy",PG,2002,2h 41m,"Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris",Chris Columbus,876688482,1.00E+08
+169,Troy,7.3,561000,56,Drama,R,2004,2h 43m,"Brad Pitt, Eric Bana, Orlando Bloom, Julian Glover",Wolfgang Petersen,497409852,1.75E+08
+170,The Dark Knight Rises,8.4,1800000,78,"Action, Drama, Thriller",PG-13,2012,2h 44m,"Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",Christopher Nolan,1081041287,2.50E+08
+171,Hypnotic,5.5,27000,53,"Action, Mystery, Thriller",R,2023,1h 33m,"Ben Affleck, Alice Braga, JD Pardo, Dayo Okeniyi",Robert Rodriguez,9464308,7.00E+07
+172,Call Me by Your Name,7.8,303000,94,"Drama, Romance",R,2017,2h 12m,"Timothée Chalamet, Armie Hammer, Michael Stuhlbarg, Amira Casar",Luca Guadagnino,43143046,4.00E+06
+173,Get Out,7.8,674000,85,"Horror, Mystery, Thriller",R,2017,1h 44m,"Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener",Jordan Peele,255407969,4500000
+174,Some Like It Hot,8.2,279000,98,"Comedy, Music, Romance",Passed,1959,2h 1m,"Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft",Billy Wilder,2.50E+07,2883848
+175,300,7.6,853000,52,"Action, Drama",R,2006,1h 57m,"Gerard Butler, Lena Headey, David Wenham, Dominic West",Zack Snyder,456082343,6.50E+07
+176,We're the Millers,7,478000,44,"Comedy, Crime",R,2013,1h 50m,"Jason Sudeikis, Jennifer Aniston, Emma Roberts, Ed Helms",Rawson Marshall Thurber,269994119,3.70E+07
+177,Top Gun,6.9,490000,50,"Action, Drama",PG,1986,1h 49m,"Tom Cruise, Tim Robbins, Kelly McGillis, Val Kilmer",Tony Scott,356830601,1.50E+07
+178,Tenet,7.3,572000,69,"Action, Sci-Fi, Thriller",PG-13,2020,2h 30m,"John David Washington, Robert Pattinson, Elizabeth Debicki, Juhan Ulfsak",Christopher Nolan,365304105,2.05E+08
+179,12 Angry Men,9,845000,97,"Crime, Drama",Approved,1957,1h 36m,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",Sidney Lumet,1.00E+06,350000
+180,The Portrait,4.4,303,NA,NA,R,2023,1h 26m,NA,NA,0,0
+181,Casino Royale,8,685000,80,"Action, Adventure, Thriller",PG-13,2006,2h 24m,"Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright",Martin Campbell,599045960,1.50E+08
+182,Star Wars: Episode IV - A New Hope,8.6,1400000,90,"Action, Adventure, Fantasy",PG,1977,2h 1m,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",George Lucas,NA,NA
+183,The Lobster,7.1,281000,82,"Drama, Romance, Sci-Fi",R,2015,1h 59m,"Colin Farrell, Rachel Weisz, Jessica Barden, Olivia Colman",Yorgos Lanthimos,15656193,4.00E+06
+184,Jack Reacher,7,359000,50,"Action, Mystery, Thriller",PG-13,2012,2h 10m,"Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog",Christopher McQuarrie,218340595,6.00E+07
+185,Glass Onion,7.1,420000,81,"Comedy, Crime, Drama",PG-13,2022,2h 19m,"Daniel Craig, Edward Norton, Kate Hudson, Dave Bautista",Rian Johnson,NA,NA
+186,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1200000,63,"Action, Adventure, Fantasy",PG-13,2003,2h 23m,"Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",Gore Verbinski,655011224,1.40E+08
+187,A Man Called Otto,7.5,144000,51,"Comedy, Drama",PG-13,2022,2h 6m,"Tom Hanks, Mariana Treviño, Rachel Keller, John Higgins",Marc Forster,108961677,5.00E+07
+188,Aliens,8.4,751000,84,"Action, Adventure, Sci-Fi",R,1986,2h 17m,"Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",James Cameron,183316455,18500000
+189,The Help,8.1,484000,62,Drama,PG-13,2011,2h 26m,"Viola Davis, Emma Stone, Octavia Spencer, Bryce Dallas Howard",Tate Taylor,216639112,2.50E+07
+190,Terminator 2: Judgment Day,8.6,1200000,75,"Action, Sci-Fi",R,1991,2h 17m,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",James Cameron,5.20E+08,1.02E+08
+191,La La Land,8,645000,94,"Comedy, Drama, Music",PG-13,2016,2h 8m,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",Damien Chazelle,447407695,3.00E+07
+192,The Truman Show,8.2,1200000,90,"Comedy, Drama",PG,1998,1h 43m,"Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich",Peter Weir,264118201,6.00E+07
+193,The Outsiders,7,95000,45,"Crime, Drama",PG,1983,1h 31m,"C. Thomas Howell, Matt Dillon, Ralph Macchio, Patrick Swayze",Francis Ford Coppola,33697647,1.00E+07
+194,Taxi Driver,8.2,899000,94,"Crime, Drama",R,1976,1h 54m,"Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks",Martin Scorsese,28600000,1900000
+195,Fast Times at Ridgemont High,7.1,114000,61,"Comedy, Drama",R,1982,1h 30m,"Sean Penn, Jennifer Jason Leigh, Judge Reinhold, Robert Romanus",Amy Heckerling,27092880,4500000
+196,Hereditary,7.3,364000,87,"Drama, Horror, Mystery",R,2018,2h 7m,"Toni Collette, Milly Shapiro, Gabriel Byrne, Alex Wolff",Ari Aster,82530552,1.00E+07
+197,The Irishman,7.8,421000,94,"Biography, Crime, Drama",R,2019,3h 29m,"Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",Martin Scorsese,968853,1.59E+08
+198,Catch Me If You Can,8.1,1100000,75,"Biography, Crime, Drama",PG-13,2002,2h 21m,"Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",Steven Spielberg,352114312,5.20E+07
+199,The Shining,8.4,1100000,66,"Drama, Horror",R,1980,2h 26m,"Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",Stanley Kubrick,44781695,1.90E+07
+200,Knives Out,7.9,751000,82,"Comedy, Crime, Drama",PG-13,2019,2h 10m,"Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis",Rian Johnson,312897920,4.00E+07
+201,Next Goal Wins,6.5,3300,44,"Comedy, Drama, Sport",PG-13,2023,1h 44m,"Michael Fassbender, Oscar Kightley, Kaimana, David Fane",Taika Waititi,43089,0
+202,Air,7.4,153000,73,"Drama, Sport",R,2023,1h 51m,"Matt Damon, Jason Bateman, Ben Affleck, Chris Messina",Ben Affleck,87078875,9.00E+07
+203,Christmas with the Chosen: Holy Night,6.4,112,NA,NA,NA,2023,2h 5m,NA,NA,NA,NA
+204,Tropic Thunder,7.1,441000,71,"Action, Comedy, War",R,2008,1h 47m,"Ben Stiller, Jack Black, Robert Downey Jr., Jeff Kahn",Ben Stiller,195702811,9.20E+07
+205,Murder on the Orient Express,6.5,285000,52,"Crime, Drama, Mystery",PG-13,2017,1h 54m,"Kenneth Branagh, Penélope Cruz, Willem Dafoe, Judi Dench",Kenneth Branagh,352794081,5.50E+07
+206,The Secret Life of Walter Mitty,7.3,334000,54,"Adventure, Comedy, Drama",PG,2013,1h 54m,"Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn",Ben Stiller,188133322,9.00E+07
+207,Love & Other Drugs,6.7,219000,55,"Comedy, Drama, Romance",R,2010,1h 52m,"Jake Gyllenhaal, Anne Hathaway, Judy Greer, Oliver Platt",Edward Zwick,102820008,3.00E+07
+208,The Equalizer,7.2,408000,57,"Action, Crime, Thriller",R,2014,2h 12m,"Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour",Antoine Fuqua,192330738,5.50E+07
+209,Ford v Ferrari,8.1,448000,81,"Action, Biography, Drama",PG-13,2019,2h 32m,"Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe",James Mangold,225508210,97600000
+210,Divergent,6.6,482000,48,"Action, Adventure, Mystery",PG-13,2014,2h 19m,"Shailene Woodley, Theo James, Kate Winslet, Jai Courtney",Neil Burger,288885818,8.50E+07
+211,Dune,6.3,169000,41,"Action, Adventure, Sci-Fi",PG-13,1984,2h 17m,"Kyle MacLachlan, Virginia Madsen, Francesca Annis, Leonardo Cimino",David Lynch,402027830,1.65E+08
+212,Pretty Woman,7.1,348000,51,"Comedy, Romance",R,1990,1h 59m,"Richard Gere, Julia Roberts, Jason Alexander, Laura San Giacomo",Garry Marshall,463406268,1.40E+07
+213,Mulholland Drive,7.9,377000,86,"Drama, Mystery, Thriller",R,2001,2h 27m,"Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates",David Lynch,20271129,1.50E+07
+214,The Lord of the Rings: The Two Towers,8.8,1700000,87,"Action, Adventure, Drama",PG-13,2002,2h 59m,"Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",Peter Jackson,926287400,7.90E+07
+215,Ghostbusters,7.8,438000,71,"Action, Comedy, Fantasy",PG,1984,1h 45m,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",Ivan Reitman,296187079,3.00E+07
+216,"Planes, Trains & Automobiles",7.6,157000,72,"Comedy, Drama",R,1987,1h 33m,"Steve Martin, John Candy, Laila Robins, Michael McKean",John Hughes,NA,NA
+217,Green Lantern,5.5,294000,39,"Action, Adventure, Sci-Fi",PG-13,2011,1h 54m,"Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong",Martin Campbell,219851172,2.00E+08
+218,Wifelike,4.9,3800,NA,NA,R,2022,1h 45m,NA,NA,0,0
+219,Cruella,7.3,258000,59,"Adventure, Comedy, Crime",PG-13,2021,2h 14m,"Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser",Craig Gillespie,233503234,2.00E+08
+220,Harry Potter and the Deathly Hallows: Part 1,7.7,586000,65,"Adventure, Family, Fantasy",PG-13,2010,2h 26m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Bill Nighy",David Yates,954305868,2.50E+08
+221,The Christmas Chronicles: Part Two,6,35000,51,"Adventure, Comedy, Family",PG,2020,1h 52m,"Kurt Russell, Goldie Hawn, Darby Camp, Julian Dennison",Chris Columbus,0,0
+222,The Abyss,7.5,188000,62,"Adventure, Drama, Mystery",PG-13,1989,2h 20m,"Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester",James Cameron,90000098,7.00E+07
+223,The Godfather Part II,9,1300000,90,"Crime, Drama",R,1974,3h 22m,"Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",Francis Ford Coppola,102600000,1.30E+07
+224,The Fifth Element,7.6,497000,52,"Action, Adventure, Sci-Fi",PG-13,1997,2h 6m,"Bruce Willis, Milla Jovovich, Gary Oldman, Ian Holm",Luc Besson,263920180,9.00E+07
+225,Black Adam,6.2,265000,41,"Action, Adventure, Fantasy",PG-13,2022,2h 5m,"Dwayne Johnson, Aldis Hodge, Pierce Brosnan, Noah Centineo",Jaume Collet-Serra,393252111,2.00E+08
+226,Mr. & Mrs. Smith,6.5,528000,55,"Action, Comedy, Crime",PG-13,2005,2h,"Brad Pitt, Angelina Jolie, Adam Brody, Vince Vaughn",Doug Liman,487287646,1.10E+08
+227,Memento,8.4,1300000,83,"Mystery, Thriller",R,2000,1h 53m,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",Christopher Nolan,39723096,9.00E+06
+228,Avatar,7.9,1400000,83,"Action, Adventure, Fantasy",PG-13,2009,2h 42m,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",James Cameron,2923706026,2.37E+08
+229,All Souls,5,312,NA,NA,R,2023,1h 21m,NA,NA,0,0
+230,Paper Moon,8.1,51000,77,"Comedy, Crime, Drama",PG,1973,1h 42m,"Ryan O'Neal, Tatum O'Neal, Madeline Kahn, John Hillerman",Peter Bogdanovich,30900000,2500000
+231,A Creature Was Stirring,4.8,302,NA,NA,R,2023,1h 36m,NA,NA,NA,NA
+232,Alien: Covenant,6.4,298000,65,"Horror, Sci-Fi, Thriller",R,2017,2h 2m,"Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride",Ridley Scott,240891763,9.70E+07
+233,Kill Bill: Vol. 1,8.2,1200000,69,"Action, Crime, Thriller",R,2003,1h 51m,"Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen",Quentin Tarantino,180906076,3.00E+07
+234,Last Night in Soho,7,169000,65,"Drama, Horror, Mystery",R,2021,1h 56m,"Thomasin McKenzie, Anya Taylor-Joy, Matt Smith, Diana Rigg",Edgar Wright,22957625,4.30E+07
+235,Ready or Not,6.9,176000,64,"Action, Comedy, Horror",R,2019,1h 35m,"Samara Weaving, Adam Brody, Mark O'Brien, Henry Czerny",Matt Bettinelli-OlpinTyler Gillett,57615777,6.00E+06
+236,The Hobbit: An Unexpected Journey,7.8,860000,58,"Adventure, Fantasy",PG-13,2012,2h 49m,"Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis",Peter Jackson,1021103568,2.50E+08
+237,Good Boys,6.7,80000,NA,NA,R,2019,1h 30m,NA,NA,111037232,2.00E+07
+238,Point Break,7.3,197000,59,"Action, Crime, Thriller",R,1991,2h 2m,"Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty",Kathryn Bigelow,83531958,2.40E+07
+239,Skyfall,7.8,722000,81,"Action, Adventure, Thriller",PG-13,2012,2h 23m,"Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench",Sam Mendes,1142471295,2.00E+08
+240,The Hateful Eight,7.8,645000,68,"Crime, Drama, Mystery",R,2015,2h 48m,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",Quentin Tarantino,155760117,4.40E+07
+241,2001: A Space Odyssey,8.3,706000,84,"Adventure, Sci-Fi",G,1968,2h 29m,"Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",Stanley Kubrick,71923560,1.20E+07
+242,A Christmas Carol,8.1,25000,NA,NA,TV-PG,1951,1h 26m,NA,NA,325286646,2.00E+08
+243,How the Gringo Stole Christmas,3.3,384,NA,NA,PG-13,2023,1h 21m,NA,NA,0,0
+244,The Great Gatsby,7.2,584000,55,"Drama, Romance",PG-13,2013,2h 23m,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton, Tobey Maguire",Baz Luhrmann,351040419,1.05E+08
+245,Old,5.8,154000,55,"Drama, Horror, Mystery",PG-13,2021,1h 48m,"Gael García Bernal, Vicky Krieps, Rufus Sewell, Alex Wolff",M. Night Shyamalan,90146510,1.80E+07
+246,The Usual Suspects,8.5,1100000,76,"Crime, Drama, Mystery",R,1995,1h 46m,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin",Bryan Singer,23341568,6.00E+06
+247,Free Guy,7.1,410000,62,"Action, Adventure, Comedy",PG-13,2021,1h 55m,"Ryan Reynolds, Jodie Comer, Taika Waititi, Lil Rel Howery",Shawn Levy,331526598,1.10E+08
+248,Dead Poets Society,8.1,531000,79,"Comedy, Drama",PG,1989,2h 8m,"Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles",Peter Weir,235860116,16400000
+249,Harry Potter and the Order of the Phoenix,7.5,620000,71,"Action, Adventure, Family",PG-13,2007,2h 18m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Brendan Gleeson",David Yates,938212738,1.50E+08
+250,From Dusk Till Dawn,7.2,335000,48,"Action, Crime, Horror",R,1996,1h 48m,"Harvey Keitel, George Clooney, Juliette Lewis, Quentin Tarantino",Robert Rodriguez,25836616,1.90E+07
+251,A Beautiful Mind,8.2,972000,72,"Biography, Drama, Mystery",PG-13,2001,2h 15m,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",Ron Howard,316800000,5.80E+07
+252,Ex Machina,7.7,575000,78,"Drama, Sci-Fi, Thriller",R,2014,1h 48m,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac, Sonoya Mizuno",Alex Garland,36869414,1.50E+07
+253,Thor: Love and Thunder,6.2,387000,57,"Action, Adventure, Comedy",PG-13,2022,1h 58m,"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson",Taika Waititi,760928081,2.50E+08
+254,Dazed and Confused,7.6,196000,82,Comedy,R,1993,1h 43m,"Jason London, Wiley Wiggins, Matthew McConaughey, Rory Cochrane",Richard Linklater,7993039,6.90E+07
+255,Sicario,7.7,462000,82,"Action, Crime, Drama",R,2015,2h 1m,"Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal",Denis Villeneuve,84872444,3.00E+07
+256,Unfaithful,6.7,96000,63,"Drama, Romance, Thriller",R,2002,2h 4m,"Richard Gere, Diane Lane, Olivier Martinez, Erik Per Sullivan",Adrian Lyne,119137784,5.00E+07
+257,The Retirement Plan,5,4000,NA,NA,R,2023,1h 43m,NA,NA,0,0
+258,The Mist,7.1,333000,58,"Horror, Sci-Fi, Thriller",R,2007,2h 6m,"Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher",Frank Darabont,57470220,1.80E+07
+259,Indiana Jones and the Temple of Doom,7.5,527000,57,"Action, Adventure",PG,1984,1h 58m,"Harrison Ford, Kate Capshaw, Ke Huy Quan, Amrish Puri",Steven Spielberg,3.33E+08,2.80E+07
+260,Lolita,6.8,65000,46,"Drama, Romance",R,1997,2h 17m,"Jeremy Irons, Dominique Swain, Melanie Griffith, Frank Langella",Adrian Lyne,9250000,2.00E+06
+261,Nymphomaniac: Vol. I,6.9,130000,64,Drama,NA,2013,1h 57m,"Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf",Lars von Trier,13545832,0
+262,Lady Bird,7.4,318000,93,"Comedy, Drama",R,2017,1h 34m,"Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges",Greta Gerwig,78966486,1.00E+07
+263,Network,8.1,167000,83,Drama,R,1976,2h 1m,"Faye Dunaway, William Holden, Peter Finch, Robert Duvall",Sidney Lumet,23689877,3800000
+264,It,7.3,593000,69,Horror,R,2017,2h 15m,"Bill Skarsgård, Jaeden Martell, Finn Wolfhard, Sophia Lillis",Andy Muschietti,701800000,4.00E+07
+265,Scream VI,6.5,112000,61,"Horror, Mystery, Thriller",R,2023,2h 2m,"Courteney Cox, Melissa Barrera, Jenna Ortega, Jasmin Savoy Brown",Matt Bettinelli-OlpinTyler Gillett,168961389,3.50E+07
+266,Amsterdam,6.1,87000,48,"Comedy, Drama, History",R,2022,2h 14m,"Christian Bale, Margot Robbie, John David Washington, Alessandro Nivola",David O. Russell,31245810,8.00E+07
+267,Guardians of the Galaxy,8,1300000,76,"Action, Adventure, Comedy",PG-13,2014,2h 1m,"Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",James Gunn,772776600,1.70E+08
+268,The Terminator,8.1,909000,84,"Action, Sci-Fi",R,1984,1h 47m,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield",James Cameron,78371200,6400000
+269,The Thing,8.2,456000,57,"Horror, Mystery, Sci-Fi",R,1982,1h 49m,"Kurt Russell, Wilford Brimley, Keith David, Richard Masur",John Carpenter,19629760,1.50E+07
+270,RoboCop,7.6,277000,70,"Action, Crime, Sci-Fi",R,1987,1h 42m,"Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",Paul Verhoeven,242688965,1.20E+08
+271,Spider-Man,7.4,863000,73,"Action, Adventure, Sci-Fi",PG-13,2002,2h 1m,"Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco",Sam Raimi,821708551,1.39E+08
+272,The Martian,8,905000,80,"Adventure, Drama, Sci-Fi",PG-13,2015,2h 24m,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",Ridley Scott,630600000,1.08E+08
+273,Mother!,6.6,245000,76,"Drama, Horror, Mystery",R,2017,2h 1m,"Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer",Darren Aronofsky,NA,NA
+274,The Talented Mr. Ripley,7.4,228000,76,"Crime, Drama, Thriller",R,1999,2h 19m,"Matt Damon, Gwyneth Paltrow, Jude Law, Cate Blanchett",Anthony Minghella,128798265,4.00E+07
+275,National Lampoon's Animal House,7.4,128000,79,Comedy,R,1978,1h 49m,"John Belushi, Karen Allen, Tom Hulce, Stephen Furst",John Landis,NA,NA
+276,Harry Potter and the Half-Blood Prince,7.6,582000,78,"Action, Adventure, Family",PG,2009,2h 33m,"Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",David Yates,933959197,2.50E+08
+277,The Fast and the Furious: Tokyo Drift,6,293000,45,"Action, Crime, Thriller",PG-13,2006,1h 44m,"Lucas Black, Zachery Ty Bryan, Shad Moss, Damien Marzette",Justin Lin,158964610,8.50E+07
+278,Knock at the Cabin,6.1,107000,63,"Horror, Mystery, Thriller",R,2023,1h 40m,"Dave Bautista, Jonathan Groff, Ben Aldridge, Nikki Amuka-Bird",M. Night Shyamalan,54708659,2.00E+07
+279,Basic Instinct,7,215000,43,"Drama, Mystery, Thriller",R,1992,2h 7m,"Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn",Paul Verhoeven,352927224,4.90E+07
+280,The Hangover,7.7,829000,73,Comedy,R,2009,1h 40m,"Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms",Todd Phillips,469310836,3.50E+07
+281,Elvis,7.3,221000,64,"Biography, Drama, Music",PG-13,2022,2h 39m,"Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson",Baz Luhrmann,288670284,8.50E+07
+282,Percy Jackson & the Olympians: The Lightning Thief,5.9,198000,47,"Adventure, Family, Fantasy",PG,2010,1h 58m,"Logan Lerman, Kevin McKidd, Steve Coogan, Brandon T. Jackson",Chris Columbus,226497209,9.50E+07
+283,Pale Rider,7.3,64000,61,"Drama, Western",R,1985,1h 55m,"Clint Eastwood, Michael Moriarty, Carrie Snodgress, Sydney Penny",Clint Eastwood,41410568,6900000
+284,Boogie Nights,7.9,278000,86,Drama,R,1997,2h 35m,"Mark Wahlberg, Julianne Moore, Burt Reynolds, Luis Guzmán",Paul Thomas Anderson,43101594,1.50E+07
+285,Meet Joe Black,7.2,259000,43,"Drama, Fantasy, Romance",PG-13,1998,2h 58m,"Brad Pitt, Anthony Hopkins, Claire Forlani, Jake Weber",Martin Brest,142940100,9.00E+07
+286,The Maze Runner,6.8,498000,57,"Action, Mystery, Sci-Fi",PG-13,2014,1h 53m,"Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster",Wes Ball,348319861,3.40E+07
+287,Batman Begins,8.2,1500000,70,"Action, Crime, Drama",PG-13,2005,2h 20m,"Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson",Christopher Nolan,374218673,1.50E+08
+288,The Mummy,7.1,453000,48,"Action, Adventure, Fantasy",PG-13,1999,2h 4m,"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",Stephen Sommers,415885488,8.00E+07
+289,Indiana Jones and the Last Crusade,8.2,799000,65,"Action, Adventure",PG-13,1989,2h 7m,"Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott",Steven Spielberg,474171806,4.80E+07
+290,Nope,6.8,252000,77,"Horror, Mystery, Sci-Fi",R,2022,2h 10m,"Daniel Kaluuya, Keke Palmer, Brandon Perea, Michael Wincott",Jordan Peele,170823080,6.80E+07
+291,The Grand Budapest Hotel,8.1,869000,88,"Adventure, Comedy, Crime",R,2014,1h 39m,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",Wes Anderson,174600318,3.00E+07
+292,1917,8.2,654000,78,"Action, Drama, War",R,2019,1h 59m,"Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth",Sam Mendes,394638258,1.00E+08
+293,The Last Duel,7.4,176000,67,"Action, Drama, History",R,2021,2h 32m,"Matt Damon, Adam Driver, Jodie Comer, Harriet Walter",Ridley Scott,30500000,1.00E+08
+294,West Side Story,7.1,93000,85,"Crime, Drama, Musical",PG-13,2021,2h 36m,"Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez",Steven Spielberg,43656822,6.00E+06
+295,The Pianist,8.5,891000,85,"Biography, Drama, Music",R,2002,2h 30m,"Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox",Roman Polanski,120072577,3.50E+07
+296,The Lion King,6.8,262000,55,"Animation, Adventure, Drama",PG,2019,1h 58m,"Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor",Jon Favreau,763455561,4.50E+07
+297,The Jester,4.1,978,NA,NA,NA,2023,1h 30m,NA,NA,0,500
+298,Dunkirk,7.8,721000,94,"Action, Drama, History",PG-13,2017,1h 46m,"Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy",Christopher Nolan,5.27E+08,1.50E+08
+299,A Clockwork Orange,8.3,868000,77,"Crime, Sci-Fi",X,1971,2h 16m,"Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",Stanley Kubrick,26589000,2200000
+300,The Social Network,7.8,745000,95,"Biography, Drama",PG-13,2010,2h,"Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara",David Fincher,224920315,4.00E+07
+301,The Phantom of the Opera,7.2,129000,40,"Drama, Musical, Romance",PG-13,2004,2h 23m,"Gerard Butler, Emmy Rossum, Patrick Wilson, Miranda Richardson",Joel Schumacher,154648887,7.00E+07
+302,The Secret Gift of Christmas,6.5,366,NA,NA,NA,2023,1h 30m,NA,NA,0,0
+303,Uncle Buck,7.1,106000,51,Comedy,PG,1989,1h 40m,"John Candy, Macaulay Culkin, Jean Louisa Kelly, Gaby Hoffmann",John Hughes,79258538,1.50E+07
+304,The Other Guys,6.6,284000,64,"Action, Comedy, Crime",PG-13,2010,1h 47m,"Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes",Adam McKay,170432927,1.00E+08
+305,Almost Famous,7.9,289000,90,"Adventure, Comedy, Drama",R,2000,2h 2m,"Billy Crudup, Patrick Fugit, Kate Hudson, Frances McDormand",Cameron Crowe,47386287,6.00E+07
+306,Snatch,8.2,895000,55,"Comedy, Crime",R,2000,1h 42m,"Jason Statham, Brad Pitt, Stephen Graham, Vinnie Jones",Guy Ritchie,83557872,1.00E+07
+307,Nativity!,6.4,12000,NA,NA,PG,2009,1h 45m,NA,NA,0,0
+308,Batman v Superman: Dawn of Justice,6.5,744000,44,"Action, Adventure, Sci-Fi",PG-13,2016,2h 31m,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",Zack Snyder,873637528,2.50E+08
+309,Jojo Rabbit,7.9,429000,58,"Comedy, Drama, War",PG-13,2019,1h 48m,"Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi",Taika Waititi,82468705,1.40E+07
+310,The Lighthouse,7.4,245000,83,"Drama, Fantasy, Horror",R,2019,1h 49m,"Robert Pattinson, Willem Dafoe, Valeriia Karaman, Logan Hawkes",Robert Eggers,18129854,1.10E+07
+311,Avengers: Infinity War,8.4,1200000,68,"Action, Adventure, Sci-Fi",PG-13,2018,2h 29m,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",Anthony RussoJoe Russo,2052415039,3.00E+08
+312,The Girl with the Dragon Tattoo,7.8,487000,71,"Crime, Drama, Mystery",R,2011,2h 38m,"Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård",David Fincher,232617430,9.00E+07
+313,The Fabelmans,7.5,109000,84,Drama,PG-13,2022,2h 31m,"Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch",Steven Spielberg,45598614,4.00E+07
+314,Star Wars: Episode IX - The Rise of Skywalker,6.4,482000,53,"Action, Adventure, Fantasy",PG-13,2019,2h 21m,"Daisy Ridley, John Boyega, Oscar Isaac, Adam Driver",J.J. Abrams,NA,NA
+315,The Witch,7,292000,84,"Drama, Fantasy, Horror",R,2015,1h 32m,"Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Julian Richings",Robert Eggers,40423945,3500000
+316,Star Wars: Episode I - The Phantom Menace,6.5,843000,51,"Action, Adventure, Fantasy",PG,1999,2h 16m,"Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd",George Lucas,924317558,1.15E+08
+317,Stand by Me,8.1,432000,75,"Adventure, Comedy, Drama",R,1986,1h 29m,"Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell",Rob Reiner,52287414,8.00E+06
+318,The Big Short,7.8,472000,81,"Biography, Comedy, Drama",R,2015,2h 10m,"Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt",Adam McKay,133346506,2.80E+07
+319,Annihilation,6.8,353000,79,"Adventure, Drama, Horror",R,2018,1h 55m,"Natalie Portman, Jennifer Jason Leigh, Tessa Thompson, Benedict Wong",Alex Garland,43070915,4.00E+07
+320,True Romance,7.9,239000,59,"Crime, Drama, Romance",R,1993,1h 59m,"Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer",Tony Scott,12600000,12500000
+321,Godzilla,5.4,201000,32,"Action, Sci-Fi, Thriller",PG-13,1998,2h 19m,"Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria",Roland Emmerich,529076069,1.60E+08
+322,The Outlaw Josey Wales,7.8,79000,69,Western,PG,1976,2h 15m,"Clint Eastwood, Sondra Locke, Chief Dan George, Bill McKinney",Clint Eastwood,31800000,3700000
+323,Baywatch,5.5,199000,37,"Action, Comedy, Crime",R,2017,1h 56m,"Dwayne Johnson, Zac Efron, Alexandra Daddario, Priyanka Chopra Jonas",Seth Gordon,177856751,6.90E+07
+324,Operation Fortune: Ruse de Guerre,6.3,78000,51,"Action, Comedy, Thriller",R,2023,1h 54m,"Jason Statham, Aubrey Plaza, Cary Elwes, Hugh Grant",Guy Ritchie,37846713,5.00E+07
+325,I.S.S.,6.8,77,NA,NA,R,2023,1h 35m,NA,NA,0,0
+326,Mission: Impossible - Fallout,7.7,370000,86,"Action, Adventure, Thriller",PG-13,2018,2h 27m,"Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg",Christopher McQuarrie,791657398,1.78E+08
+327,GoldenEye,7.2,267000,65,"Action, Adventure, Thriller",PG-13,1995,2h 10m,"Pierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen",Martin Campbell,352194034,5.80E+07
+328,Wonder Woman,7.4,690000,76,"Action, Adventure, Fantasy",PG-13,2017,2h 21m,"Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",Patty Jenkins,822854286,1.49E+08
+329,Full Metal Jacket,8.3,778000,78,"Drama, War",R,1987,1h 56m,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin",Stanley Kubrick,46357676,3.00E+07
+330,Deadpool 2,7.6,627000,66,"Action, Adventure, Comedy",R,2018,1h 59m,"Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",David Leitch,785896609,1.10E+08
+331,Die Hard with a Vengeance,7.6,403000,58,"Action, Adventure, Thriller",R,1995,2h 8m,"Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene",John McTiernan,NA,NA
+332,Zodiac,7.7,584000,79,"Crime, Drama, Mystery",R,2007,2h 37m,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo, Anthony Edwards",David Fincher,84785914,6.50E+07
+333,Belfast,7.2,87000,75,"Biography, Drama, Romance",PG-13,2021,1h 38m,"Jude Hill, Lewis McAskie, Caitríona Balfe, Jamie Dornan",Kenneth Branagh,49158343,1.10E+07
+334,BlacKkKlansman,7.5,285000,83,"Biography, Comedy, Crime",R,2018,2h 15m,"John David Washington, Adam Driver, Laura Harrier, Topher Grace",Spike Lee,93411426,1.50E+07
+335,After Everything,4.6,4600,NA,NA,R,2023,1h 33m,NA,NA,3280152,1.40E+07
+336,Batman Returns,7.1,323000,68,"Action, Crime, Fantasy",PG-13,1992,2h 6m,"Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken",Tim Burton,2.80E+08,8.00E+07
+337,Lost in Translation,7.7,480000,91,"Comedy, Drama",R,2003,1h 42m,"Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris",Sofia Coppola,119723856,4.00E+06
+338,Kingsman: The Secret Service,7.7,704000,60,"Action, Adventure, Comedy",R,2014,2h 9m,"Colin Firth, Taron Egerton, Samuel L. Jackson, Michael Caine",Matthew Vaughn,414351546,8.10E+07
+339,Edward Scissorhands,7.9,516000,74,"Drama, Fantasy, Romance",PG-13,1990,1h 45m,"Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall",Tim Burton,5.30E+07,2.00E+07
+340,Reservoir Dogs,8.3,1100000,81,"Crime, Thriller",R,1992,1h 39m,"Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",Quentin Tarantino,2859750,1200000
+341,This Is Christmas,7,2400,NA,NA,NA,2022,1h 51m,NA,NA,0,9.00E+06
+342,Iron Man,7.9,1100000,79,"Action, Adventure, Sci-Fi",PG-13,2008,2h 6m,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",Jon Favreau,585174222,1.40E+08
+343,Indiana Jones and the Kingdom of the Crystal Skull,6.2,485000,65,"Action, Adventure",PG-13,2008,2h 2m,"Harrison Ford, Cate Blanchett, Shia LaBeouf, Karen Allen",Steven Spielberg,786636033,1.85E+08
+344,Shame,7.2,204000,72,Drama,NC-17,2011,1h 41m,"Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters",Steve McQueen,3909002,6500000
+345,The Adventures of Sharkboy and Lavagirl 3-D,3.7,41000,38,"Action, Adventure, Comedy",PG,2005,1h 33m,"Cayden Boyd, George Lopez, Kristin Davis, David Arquette",Robert Rodriguez,NA,NA
+346,Zack Snyder's Justice League,7.9,429000,54,"Action, Adventure, Fantasy",R,2021,4h 2m,"Henry Cavill, Ben Affleck, Gal Gadot, Amy Adams",Zack Snyder,0,7.00E+07
+347,Clue,7.2,107000,41,"Comedy, Crime, Mystery",PG,1985,1h 34m,"Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd",Jonathan Lynn,14643997,1.50E+07
+348,Carol,7.2,140000,94,"Drama, Romance",R,2015,1h 58m,"Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler",Todd Haynes,40272135,11800000
+349,Men in Black,7.3,601000,71,"Action, Adventure, Comedy",PG-13,1997,1h 38m,"Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio",Barry Sonnenfeld,589390539,9.00E+07
+350,Bram Stoker's Dracula,7.4,234000,57,"Drama, Fantasy, Horror",R,1992,2h 8m,"Gary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves",Francis Ford Coppola,215862692,4.00E+07
+351,Ocean's Eleven,7.7,607000,74,"Crime, Thriller",PG-13,2001,1h 56m,"George Clooney, Brad Pitt, Julia Roberts, Matt Damon",Steven Soderbergh,450717150,8.50E+07
+352,Edge of Tomorrow,7.9,722000,71,"Action, Adventure, Sci-Fi",PG-13,2014,1h 53m,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",Doug Liman,370541256,1.78E+08
+353,Beetlejuice,7.5,331000,70,"Comedy, Fantasy",PG,1988,1h 32m,"Alec Baldwin, Geena Davis, Michael Keaton, Annie McEnroe",Tim Burton,74714298,1.50E+07
+354,The Nice Guys,7.4,361000,70,"Action, Comedy, Crime",R,2016,1h 56m,"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",Shane Black,62788218,5.00E+07
+355,28 Days Later,7.5,436000,73,"Drama, Horror, Sci-Fi",R,2002,1h 53m,"Cillian Murphy, Naomie Harris, Christopher Eccleston, Alex Palmer",Danny Boyle,85720385,5.00E+06
+356,Doctor Strange in the Multiverse of Madness,6.9,463000,60,"Action, Adventure, Fantasy",PG-13,2022,2h 6m,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong",Sam Raimi,955775804,2.00E+08
+357,The Breakfast Club,7.8,428000,66,"Comedy, Drama",R,1985,1h 37m,"Emilio Estevez, Judd Nelson, Molly Ringwald, Ally Sheedy",John Hughes,51525171,1.00E+06
+358,Just Friends,6.2,125000,47,"Comedy, Romance",PG-13,2005,1h 36m,"Ryan Reynolds, Amy Smart, Anna Faris, Chris Klein",Roger Kumble,50817508,0
+359,A Knight's Tale,7,198000,56,"Action, Adventure, Romance",PG-13,2001,2h 12m,"Heath Ledger, Mark Addy, Rufus Sewell, Shannyn Sossamon",Brian Helgeland,117487473,6.50E+07
+360,Licence to Kill,6.6,111000,58,"Action, Adventure, Thriller",PG-13,1989,2h 13m,"Timothy Dalton, Robert Davi, Carey Lowell, Talisa Soto",John Glen,156167015,3.20E+07
+361,John Wick: Chapter 3 - Parabellum,7.4,413000,73,"Action, Crime, Thriller",R,2019,2h 10m,"Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne",Chad Stahelski,326709727,5.50E+07
+362,Rescuing Christmas,6.4,257,NA,NA,NA,2023,1h 24m,NA,NA,0,0
+363,Alita: Battle Angel,7.3,288000,53,"Action, Adventure, Sci-Fi",PG-13,2019,2h 2m,"Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",Robert Rodriguez,404980543,1.70E+08
+364,Locked In,5.1,6900,NA,NA,TV-MA,2023,1h 36m,NA,NA,0,0
+365,Control,3.9,40,NA,NA,NA,2023,1h 24m,NA,NA,8159508,5.00E+06
+366,Meet Me Under the Mistletoe,5.9,176,NA,NA,NA,2023,NA,NA,NA,NA,NA
+367,American Hustle,7.2,496000,90,"Crime, Drama",R,2013,2h 18m,"Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence",David O. Russell,251171807,4.00E+07
+368,The Lost Boys,7.2,158000,63,"Comedy, Horror",R,1987,1h 37m,"Jason Patric, Corey Haim, Dianne Wiest, Barnard Hughes",Joel Schumacher,32222567,8500000
+369,Hook,6.8,269000,52,"Adventure, Comedy, Family",PG,1991,2h 22m,"Dustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins",Steven Spielberg,300855000,7.00E+07
+370,The Avengers,8,1400000,69,"Action, Sci-Fi",PG-13,2012,2h 23m,"Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner",Joss Whedon,1518815515,2.20E+08
+371,The Sixth Sense,8.2,1.00E+06,64,"Drama, Mystery, Thriller",PG-13,1999,1h 47m,"Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",M. Night Shyamalan,672806292,4.00E+07
+372,Mission: Impossible,7.2,462000,59,"Action, Adventure, Thriller",PG-13,1996,1h 50m,"Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny",Brian De Palma,457731198,8.00E+07
+373,Silver Linings Playbook,7.7,734000,81,"Comedy, Drama, Romance",R,2012,2h 2m,"Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver",David O. Russell,236412453,2.10E+07
+374,Girl in the Basement,6.3,12000,NA,NA,TV-14,2021,1h 28m,NA,NA,0,0
+375,F9: The Fast Saga,5.2,158000,58,"Action, Crime, Thriller",PG-13,2021,2h 23m,"Vin Diesel, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson",Justin Lin,NA,NA
+376,Casino,8.2,553000,73,"Crime, Drama",R,1995,2h 58m,"Robert De Niro, Sharon Stone, Joe Pesci, James Woods",Martin Scorsese,116112375,5.00E+07
+377,Fantastic Beasts: The Secrets of Dumbledore,6.2,163000,47,"Adventure, Family, Fantasy",PG-13,2022,2h 22m,"Eddie Redmayne, Jude Law, Ezra Miller, Dan Fogler",David Yates,406950844,2.00E+08
+378,Jaws,8.1,648000,87,"Adventure, Mystery, Thriller",PG,1975,2h 4m,"Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",Steven Spielberg,470653000,7.00E+06
+379,Platoon,8.1,432000,92,"Drama, War",R,1986,2h,"Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David",Oliver Stone,138530565,6.00E+06
+380,Death Proof,7,309000,NA,NA,R,2007,2h 7m,NA,NA,31126421,2.50E+07
+381,Deep Water,5.5,55000,53,"Drama, Mystery, Thriller",R,2022,1h 55m,"Ben Affleck, Ana de Armas, Tracy Letts, Grace Jenkins",Adrian Lyne,0,4
+382,Planet of the Apes,5.7,226000,50,"Action, Adventure, Sci-Fi",PG-13,2001,2h,"Mark Wahlberg, Helena Bonham Carter, Tim Roth, Michael Clarke Duncan",Tim Burton,362211740,1.00E+08
+383,Army of the Dead,5.8,183000,57,"Action, Crime, Drama",R,2021,2h 28m,"Dave Bautista, Ella Purnell, Ana de la Reguera, Omari Hardwick",Zack Snyder,190700000,9.00E+07
+384,Now You See Me,7.2,696000,50,"Crime, Mystery, Thriller",PG-13,2013,1h 55m,"Jesse Eisenberg, Common, Mark Ruffalo, Woody Harrelson",Louis Leterrier,351723989,7.50E+07
+385,The Pale Blue Eye,6.6,119000,56,"Crime, Horror, Mystery",R,2022,2h 8m,"Christian Bale, Harry Melling, Simon McBurney, Timothy Spall",Scott Cooper,0,7.20E+07
+386,Lethal Weapon,7.6,272000,68,"Action, Crime, Thriller",R,1987,1h 49m,"Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan",Richard Donner,120207127,1.50E+07
+387,Scream,6.3,153000,60,"Horror, Mystery, Thriller",R,2022,1h 54m,"Neve Campbell, Courteney Cox, David Arquette, Melissa Barrera",Matt Bettinelli-OlpinTyler Gillett,173046663,1.50E+07
+388,Warhorse One,5.3,1500,NA,NA,R,2023,2h 6m,NA,NA,0,0
+389,My Cousin Vinny,7.6,137000,68,"Comedy, Crime",R,1992,2h,"Joe Pesci, Marisa Tomei, Ralph Macchio, Mitchell Whitfield",Jonathan Lynn,64088552,1.10E+07
+390,E.T. the Extra-Terrestrial,7.9,431000,92,"Adventure, Family, Sci-Fi",PG,1982,1h 55m,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace",Steven Spielberg,792965500,10500000
+391,Independence Day,7,598000,59,"Action, Adventure, Sci-Fi",PG-13,1996,2h 25m,"Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell",Roland Emmerich,817400891,7.50E+07
+392,Transformers,7,667000,61,"Action, Adventure, Sci-Fi",PG-13,2007,2h 24m,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",Michael Bay,709709780,1.50E+08
+393,Training Day,7.7,464000,71,"Crime, Drama, Thriller",R,2001,2h 2m,"Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger",Antoine Fuqua,104876233,4.50E+07
+394,Step Brothers,6.9,313000,51,Comedy,R,2008,1h 38m,"Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins",Adam McKay,128107642,6.50E+07
+395,Knock Knock,4.9,102000,53,"Crime, Thriller",R,2015,1h 39m,"Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns",Eli Roth,6341684,2500000
+396,Stardust,7.6,282000,66,"Adventure, Family, Fantasy",PG-13,2007,2h 7m,"Charlie Cox, Claire Danes, Sienna Miller, Ian McKellen",Matthew Vaughn,137515140,7.00E+07
+397,Black Hawk Down,7.7,417000,74,"Action, Drama, History",R,2001,2h 24m,"Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana",Ridley Scott,172989651,9.20E+07
+398,Baby Driver,7.6,591000,86,"Action, Crime, Drama",R,2017,1h 53m,"Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González",Edgar Wright,226945087,3.40E+07
+399,Bones and All,6.8,53000,74,"Drama, Horror, Romance",R,2022,2h 11m,"Timothée Chalamet, Taylor Russell, Mark Rylance, Kendle Coffey",Luca Guadagnino,14134907,1.80E+07
+400,Closer,7.2,233000,65,"Drama, Romance",R,2004,1h 44m,"Natalie Portman, Jude Law, Clive Owen, Julia Roberts",Mike Nichols,115505027,2.70E+07
+401,Fast & Furious,6.5,306000,46,"Action, Crime, Thriller",PG-13,2009,1h 47m,"Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster",Justin Lin,363164265,8.50E+07
+402,Superman,7.4,185000,82,"Action, Adventure, Sci-Fi",PG,1978,2h 23m,"Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando",Richard Donner,300218018,5.50E+07
+403,Predator,7.8,446000,47,"Action, Adventure, Horror",R,1987,1h 47m,"Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo",John McTiernan,98267558,1.50E+07
+404,Atonement,7.8,295000,85,"Drama, Mystery, Romance",R,2007,2h 3m,"Keira Knightley, James McAvoy, Brenda Blethyn, Saoirse Ronan",Joe Wright,131016624,3.00E+07
+405,The Secret: Dare to Dream,6.5,17000,32,"Drama, Romance",PG,2020,1h 47m,"Katie Holmes, Josh Lucas, Celia Weston, Jerry O'Connell",Andy Tennant,3215636,2.10E+07
+406,Transformers: The Last Knight,5.2,166000,27,"Action, Adventure, Sci-Fi",PG-13,2017,2h 34m,"Mark Wahlberg, Anthony Hopkins, Josh Duhamel, Laura Haddock",Michael Bay,605425157,2.17E+08
+407,Room in Rome,6.1,26000,NA,NA,NA,2010,1h 47m,NA,NA,844281,0
+408,Groundhog Day,8,670000,72,"Comedy, Drama, Fantasy",PG,1993,1h 41m,"Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky",Harold Ramis,71074049,14600000
+409,Jumanji: Welcome to the Jungle,6.9,413000,58,"Action, Adventure, Comedy",PG-13,2017,1h 59m,"Dwayne Johnson, Karen Gillan, Kevin Hart, Jack Black",Jake Kasdan,995339117,9.00E+07
+410,Logan,8.1,813000,77,"Action, Drama, Sci-Fi",R,2017,2h 17m,"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",James Mangold,619021436,9.70E+07
+411,Ferris Bueller's Day Off,7.8,380000,61,Comedy,PG-13,1986,1h 43m,"Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones",John Hughes,70136369,6.00E+06
+412,"What's Up, Doc?",7.7,26000,73,"Comedy, Romance",G,1972,1h 34m,"Barbra Streisand, Ryan O'Neal, Madeline Kahn, Kenneth Mars",Peter Bogdanovich,6.60E+07,4.00E+06
+413,Paddington 2,7.8,90000,88,"Adventure, Comedy, Family",PG,2017,1h 43m,"Ben Whishaw, Hugh Grant, Hugh Bonneville, Sally Hawkins",Paul King,227300000,4.00E+07
+414,Batman,7.5,399000,69,"Action, Adventure",PG-13,1989,2h 6m,"Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl",Tim Burton,411348924,3.50E+07
+415,City of Angels,6.7,126000,54,"Drama, Fantasy, Romance",PG-13,1998,1h 54m,"Nicolas Cage, Meg Ryan, Andre Braugher, Dennis Franz",Brad Silberling,198685114,5.50E+07
+416,Beverly Hills Cop III,5.5,86000,16,"Action, Comedy, Crime",R,1994,1h 44m,"Eddie Murphy, Jon Tenney, Joey Travolta, Eugene Collier",John Landis,119208989,5.00E+07
+417,A Time to Kill,7.5,177000,53,"Crime, Drama, Thriller",R,1996,2h 29m,"Matthew McConaughey, Sandra Bullock, Samuel L. Jackson, Kevin Spacey",Joel Schumacher,152266007,4.00E+07
+418,Rogue One: A Star Wars Story,7.8,675000,65,"Action, Adventure, Sci-Fi",PG-13,2016,2h 13m,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",Gareth Edwards,1056057273,2.00E+08
+419,The Virgin Suicides,7.2,166000,77,"Drama, Romance",R,1999,1h 37m,"Kirsten Dunst, Josh Hartnett, James Woods, Kathleen Turner",Sofia Coppola,10409377,6.00E+06
+420,Australia,6.6,129000,53,"Adventure, Drama, Romance",PG-13,2008,2h 45m,"Nicole Kidman, Hugh Jackman, Shea Adams, Eddie Baroo",Baz Luhrmann,211787511,1.30E+08
+421,The Day After Tomorrow,6.5,470000,47,"Action, Adventure, Sci-Fi",PG-13,2004,2h 4m,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum, Dash Mihok",Roland Emmerich,552639571,1.25E+08
+422,Mad Max,6.8,218000,73,"Action, Adventure, Sci-Fi",R,1979,1h 28m,"Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley",George Miller,1.00E+08,350000
+423,Payback,7.1,143000,46,"Action, Crime, Drama",R,1999,1h 40m,"Mel Gibson, Gregg Henry, Maria Bello, David Paymer",Brian Helgeland,161626121,9.00E+07
+424,Split,7.3,537000,63,"Horror, Thriller",PG-13,2016,1h 57m,"James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula",M. Night Shyamalan,278454358,9.00E+06
+425,The Conjuring,7.5,545000,68,"Horror, Mystery, Thriller",R,2013,1h 52m,"Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor",James Wan,320406242,1.30E+07
+426,Daddy's Home 2,6,81000,30,Comedy,PG-13,2017,1h 40m,"Will Ferrell, Mark Wahlberg, Mel Gibson, John Lithgow",Sean Anders,180613180,6.90E+07
+427,The Lovely Bones,6.6,178000,42,"Drama, Fantasy, Thriller",PG-13,2009,2h 15m,"Rachel Weisz, Mark Wahlberg, Saoirse Ronan, Susan Sarandon",Peter Jackson,93621340,6.50E+07
+428,War for the Planet of the Apes,7.4,276000,82,"Action, Adventure, Drama",PG-13,2017,2h 20m,"Andy Serkis, Woody Harrelson, Steve Zahn, Karin Konoval",Matt Reeves,490719763,1.50E+08
+429,The Curious Case of Benjamin Button,7.8,685000,70,"Drama, Fantasy, Romance",PG-13,2008,2h 46m,"Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond",David Fincher,335802786,1.50E+08
+430,Ambulance,6.1,90000,55,"Action, Crime, Drama",R,2022,2h 16m,"Jake Gyllenhaal, Yahya Abdul-Mateen II, Eiza González, Garret Dillahunt",Michael Bay,51783040,4.00E+07
+431,Star Wars: Episode VII - The Force Awakens,7.8,963000,80,"Action, Adventure, Sci-Fi",PG-13,2015,2h 18m,"Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson",J.J. Abrams,NA,NA
+432,Romeo + Juliet,6.7,241000,60,"Drama, Romance",PG-13,1996,2h,"Leonardo DiCaprio, Claire Danes, John Leguizamo, Harold Perrineau",Baz Luhrmann,147298761,14500000
+433,The King's Man,6.3,167000,44,"Action, Adventure, Thriller",R,2021,2h 11m,"Ralph Fiennes, Gemma Arterton, Rhys Ifans, Harris Dickinson",Matthew Vaughn,125928656,1.00E+08
+434,Trainspotting,8.1,715000,83,Drama,R,1996,1h 33m,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd",Danny Boyle,16491080,4.00E+06
+435,Saw,7.6,459000,46,"Horror, Mystery, Thriller",R,2004,1h 43m,"Cary Elwes, Leigh Whannell, Danny Glover, Ken Leung",James Wan,103911669,1200000
+436,Psycho,8.5,707000,97,"Horror, Mystery, Thriller",R,1960,1h 49m,"Anthony Perkins, Janet Leigh, Vera Miles, John Gavin",Alfred Hitchcock,3.20E+07,806947
+437,Total Recall,7.5,349000,60,"Action, Adventure, Sci-Fi",R,1990,1h 53m,"Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin",Paul Verhoeven,261317921,6.50E+07
+438,"Great Photo, Lovely Life",7.6,407,NA,NA,TV-MA,2023,1h 52m,NA,NA,0,0
+439,Venom,6.6,526000,35,"Action, Adventure, Sci-Fi",PG-13,2018,1h 52m,"Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze",Ruben Fleischer,856085151,1.16E+08
+440,World War Z,7,706000,63,"Action, Adventure, Horror",PG-13,2013,1h 56m,"Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",Marc Forster,531865000,2.00E+08
+441,Black Panther,7.3,824000,88,"Action, Adventure, Sci-Fi",PG-13,2018,2h 14m,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",Ryan Coogler,1349926083,2.00E+08
+442,Armageddon,6.7,445000,42,"Action, Adventure, Sci-Fi",PG-13,1998,2h 31m,"Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",Michael Bay,553799566,1.40E+08
+443,Us,6.8,332000,81,"Horror, Mystery, Thriller",R,2019,1h 56m,"Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker",Jordan Peele,256067149,2.00E+07
+444,Ready Player One,7.4,471000,64,"Action, Adventure, Sci-Fi",PG-13,2018,2h 20m,"Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe",Steven Spielberg,607274134,1.75E+08
+445,Paddington,7.3,129000,77,"Adventure, Comedy, Family",PG,2014,1h 35m,"Hugh Bonneville, Sally Hawkins, Julie Walters, Jim Broadbent",Paul King,259207227,5.50E+07
+446,Hot Fuzz,7.8,528000,81,"Action, Comedy, Mystery",R,2007,2h 1m,"Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy",Edgar Wright,80573774,1.20E+07
+447,The House That Jack Built,6.8,88000,42,"Crime, Drama, Horror",R,2018,2h 32m,"Matt Dillon, Bruno Ganz, Uma Thurman, Siobhan Fallon Hogan",Lars von Trier,5566776,9800000
+448,The Incredibles,8,790000,90,"Animation, Action, Adventure",PG,2004,1h 55m,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee",Brad Bird,631442092,9.20E+07
+449,Gangs of New York,7.5,466000,72,"Crime, Drama",R,2002,2h 47m,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent",Martin Scorsese,193772504,1.00E+08
+450,Event Horizon,6.6,194000,35,"Horror, Sci-Fi, Thriller",R,1997,1h 36m,"Laurence Fishburne, Sam Neill, Kathleen Quinlan, Joely Richardson",Paul W.S. Anderson,26673242,6.00E+07
+451,"Three Billboards Outside Ebbing, Missouri",8.1,543000,88,"Comedy, Crime, Drama",R,2017,1h 55m,"Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones",Martin McDonagh,160192031,1.50E+07
+452,Black Panther: Wakanda Forever,6.7,293000,67,"Action, Adventure, Drama",PG-13,2022,2h 41m,"Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke",Ryan Coogler,859102154,2.50E+08
+453,Bohemian Rhapsody,7.9,576000,49,"Biography, Drama, Music",PG-13,2018,2h 14m,"Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy",Bryan Singer,903992901,5.20E+07
+454,Looper,7.4,596000,84,"Action, Drama, Sci-Fi",R,2012,1h 59m,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",Rian Johnson,47042000,3.00E+07
+455,True Lies,7.3,276000,63,"Action, Comedy, Thriller",R,1994,2h 21m,"Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton",James Cameron,378882411,1.15E+08
+456,Showgirls,5,73000,20,Drama,NC-17,1995,2h 8m,"Elizabeth Berkley, Kyle MacLachlan, Gina Gershon, Glenn Plummer",Paul Verhoeven,20350754,4.50E+07
+457,The Commuter,6.3,123000,56,"Action, Mystery, Thriller",PG-13,2018,1h 44m,"Liam Neeson, Vera Farmiga, Patrick Wilson, Jonathan Banks",Jaume Collet-Serra,119942387,3.00E+07
+458,Man on Fire,7.7,383000,47,"Action, Crime, Drama",R,2004,2h 26m,"Denzel Washington, Christopher Walken, Dakota Fanning, Radha Mitchell",Tony Scott,130293714,7.00E+07
+459,King Kong,7.2,441000,81,"Action, Adventure, Romance",PG-13,2005,3h 7m,"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",Peter Jackson,562363449,2.07E+08
+460,Moonfall,5.1,96000,41,"Action, Adventure, Sci-Fi",PG-13,2022,2h 10m,"Halle Berry, Patrick Wilson, John Bradley, Charlie Plummer",Roland Emmerich,67295363,1.46E+08
+461,The Little Things,6.3,120000,54,"Crime, Drama, Mystery",R,2021,2h 8m,"Denzel Washington, Rami Malek, Jared Leto, Chris Bauer",John Lee Hancock,29942746,3.00E+07
+462,Unforgiven,8.2,430000,85,"Drama, Western",R,1992,2h 10m,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris",Clint Eastwood,159157447,14400000
+463,Clueless,6.9,239000,71,"Comedy, Romance",PG-13,1995,1h 37m,"Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd",Amy Heckerling,56631572,1.20E+07
+464,John Wick: Chapter 2,7.4,499000,75,"Action, Crime, Thriller",R,2017,2h 2m,"Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose",Chad Stahelski,171539887,4.00E+07
+465,Starship Troopers,7.3,313000,52,"Action, Adventure, Sci-Fi",R,1997,2h 9m,"Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey",Paul Verhoeven,121214377,1.05E+08
+466,I Wouldn't Be in Your Shoes,6.5,697,NA,NA,Approved,1948,1h 10m,NA,NA,0,0
+467,Before Sunrise,8.1,332000,77,"Drama, Romance",R,1995,1h 41m,"Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl",Richard Linklater,5987386,2500000
+468,Night at the Museum,6.5,371000,48,"Adventure, Comedy, Family",PG,2006,1h 48m,"Ben Stiller, Carla Gugino, Ricky Gervais, Dick Van Dyke",Shawn Levy,574480841,1.10E+08
+469,Valerian and the City of a Thousand Planets,6.4,194000,51,"Action, Adventure, Fantasy",PG-13,2017,2h 16m,"Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna",Luc Besson,225973340,177200000
+470,X-Men,7.3,638000,64,"Action, Adventure, Sci-Fi",PG-13,2000,1h 44m,"Patrick Stewart, Hugh Jackman, Ian McKellen, Famke Janssen",Bryan Singer,296339527,7.50E+07
+471,The Legend of Tarzan,6.2,185000,44,"Action, Adventure, Drama",PG-13,2016,1h 50m,"Alexander Skarsgård, Rory J Saper, Christian Stevens, Christoph Waltz",David Yates,356743061,1.80E+08
+472,The Equalizer 2,6.7,188000,50,"Action, Crime, Thriller",R,2018,2h 1m,"Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean",Antoine Fuqua,190400157,6.20E+07
+473,Vacation,6.1,120000,34,"Adventure, Comedy",R,2015,1h 39m,"Ed Helms, Christina Applegate, Skyler Gisondo, Steele Stebbins",John Francis DaleyJonathan Goldstein,104384188,3.10E+07
+474,Maze Runner: The Scorch Trials,6.3,270000,43,"Action, Adventure, Sci-Fi",PG-13,2015,2h 11m,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Giancarlo Esposito",Wes Ball,312296056,6.10E+07
+475,Kill Shot,4.6,1500,NA,NA,NA,2023,1h 33m,NA,NA,0,0
+476,Mystic River,7.9,477000,84,"Crime, Drama, Mystery",R,2003,2h 18m,"Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum",Clint Eastwood,156822020,2.50E+07
+477,Alice in Wonderland,6.4,435000,53,"Adventure, Family, Fantasy",PG,2010,1h 48m,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway",Tim Burton,1025467110,2.00E+08
+478,Miranda's Victim,6.4,744,NA,NA,NA,2023,2h 7m,NA,NA,0,0
+479,American Gangster,7.8,446000,76,"Biography, Crime, Drama",R,2007,2h 37m,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin",Ridley Scott,266465037,1.00E+08
+480,Sixteen Candles,7,124000,61,"Comedy, Romance",PG,1984,1h 33m,"Molly Ringwald, Anthony Michael Hall, Justin Henry, Michael Schoeffling",John Hughes,23686027,6500000
+481,Legend,6.9,198000,55,"Biography, Crime, Drama",R,2015,2h 12m,"Tom Hardy, Emily Browning, Taron Egerton, Paul Anderson",Brian Helgeland,42972994,2.50E+07
+482,Caligula,5.3,38000,NA,NA,Unrated,1979,2h 36m,NA,NA,23438120,17500000
+483,The Black Phone,6.9,183000,65,"Horror, Mystery, Thriller",R,2021,1h 43m,"Mason Thames, Madeleine McGraw, Ethan Hawke, Jeremy Davies",Scott Derrickson,161440742,1.70E+07
+484,The Witches of Eastwick,6.5,76000,67,"Comedy, Fantasy, Horror",R,1987,1h 58m,"Jack Nicholson, Cher, Susan Sarandon, Michelle Pfeiffer",George Miller,63766510,2.20E+07
+485,Dawn of the Planet of the Apes,7.6,462000,79,"Action, Adventure, Drama",PG-13,2014,2h 10m,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee",Matt Reeves,710644566,1.70E+08
+486,I'll Be Home for Christmas,5.5,12000,NA,NA,PG,1998,1h 26m,NA,NA,0,3.00E+07
+487,500 Days of Summer,7.7,546000,76,"Comedy, Drama, Romance",PG-13,2009,1h 35m,"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz",Marc Webb,NA,NA
+488,The Hunt for Red October,7.5,211000,58,"Action, Adventure, Thriller",PG,1990,2h 15m,"Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill",John McTiernan,200512643,3.00E+07
+489,Scary Movie,6.3,281000,48,Comedy,R,2000,1h 28m,"Anna Faris, Jon Abrahams, Marlon Wayans, Carmen Electra",Keenen Ivory Wayans,278019771,1.90E+07
+490,Nightmare Alley,7,161000,70,"Crime, Drama, Thriller",R,2021,2h 30m,"Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe",Guillermo del Toro,39629195,6.00E+07
+491,Cinderella,6.9,188000,67,"Adventure, Drama, Family",PG,2015,1h 45m,"Lily James, Cate Blanchett, Richard Madden, Helena Bonham Carter",Kenneth Branagh,543514353,9.50E+07
+492,Terrifier,5.6,50000,NA,NA,Unrated,2016,1h 25m,NA,NA,416322,1.00E+05
+493,Wonder Woman 1984,5.4,287000,60,"Action, Adventure, Fantasy",PG-13,2020,2h 31m,"Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal",Patty Jenkins,169601036,2.00E+08
+494,The Shape of Water,7.3,441000,87,"Drama, Fantasy, Romance",R,2017,2h 3m,"Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones",Guillermo del Toro,195333312,19500000
+495,The Hobbit: The Desolation of Smaug,7.8,694000,66,"Adventure, Drama, Fantasy",PG-13,2013,2h 41m,"Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",Peter Jackson,958400000,2.50E+08
+496,Children of Men,7.9,522000,84,"Action, Drama, Sci-Fi",R,2006,1h 49m,"Julianne Moore, Clive Owen, Chiwetel Ejiofor, Michael Caine",Alfonso Cuarón,70595464,7.60E+07
+497,In Bruges,7.9,455000,67,"Comedy, Crime, Drama",R,2008,1h 47m,"Colin Farrell, Brendan Gleeson, Ciarán Hinds, Elizabeth Berrington",Martin McDonagh,34533783,1.50E+07
+498,Beverly Hills Cop II,6.5,127000,48,"Action, Comedy, Crime",R,1987,1h 40m,"Eddie Murphy, Judge Reinhold, Jürgen Prochnow, Ronny Cox",Tony Scott,299965036,2.80E+07
+499,Stargate,7,202000,42,"Action, Adventure, Sci-Fi",PG-13,1994,1h 56m,"Kurt Russell, James Spader, Jaye Davidson, Viveca Lindfors",Roland Emmerich,196567262,5.50E+07
+500,Thor: Ragnarok,7.9,802000,74,"Action, Adventure, Comedy",PG-13,2017,2h 10m,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",Taika Waititi,855301806,1.80E+08
+501,Star Wars: Episode III - Revenge of the Sith,7.6,832000,68,"Action, Adventure, Fantasy",PG-13,2005,2h 20m,"Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson",George Lucas,8.50E+08,1.13E+08
+502,Fantastic Mr. Fox,7.9,263000,83,"Animation, Adventure, Comedy",PG,2009,1h 27m,"George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman",Wes Anderson,46471023,4.00E+07
+503,Click,6.4,351000,45,"Comedy, Drama, Fantasy",PG-13,2006,1h 47m,"Adam Sandler, Kate Beckinsale, Christopher Walken, David Hasselhoff",Frank Coraci,240685326,82500000
+504,Red Sparrow,6.6,198000,53,"Action, Drama, Thriller",R,2018,2h 20m,"Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Charlotte Rampling",Francis Lawrence,151572634,6.90E+07
+505,12 Years a Slave,8.1,731000,96,"Biography, Drama, History",R,2013,2h 14m,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt",Steve McQueen,1.87E+08,2.00E+07
+506,The Patriot,7.2,289000,63,"Action, Drama, History",R,2000,2h 45m,"Mel Gibson, Heath Ledger, Joely Richardson, Jason Isaacs",Roland Emmerich,215294342,1.10E+08
+507,Martyrs,7,104000,NA,NA,R,2008,1h 39m,NA,NA,1100000,6500000
+508,The Last of the Mohicans,7.7,184000,76,"Action, Adventure, Drama",R,1992,1h 52m,"Daniel Day-Lewis, Madeleine Stowe, Russell Means, Eric Schweig",Michael Mann,75505856,4.00E+07
+509,Father Christmas Is Back,4.5,7200,NA,NA,PG-13,2021,1h 45m,NA,NA,0,0
+510,Spider-Man: Homecoming,7.4,704000,73,"Action, Adventure, Sci-Fi",PG-13,2017,2h 13m,"Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",Jon Watts,880166924,1.75E+08
+511,Pirates of the Caribbean: Dead Man's Chest,7.4,755000,53,"Action, Adventure, Fantasy",PG-13,2006,2h 31m,"Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",Gore Verbinski,1065659812,2.00E+08
+512,Gran Torino,8.1,805000,72,Drama,R,2008,1h 56m,"Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her",Clint Eastwood,269958228,3.30E+07
+513,Sucker Punch,6,250000,33,"Action, Adventure, Fantasy",PG-13,2011,1h 50m,"Emily Browning, Vanessa Hudgens, Abbie Cornish, Jena Malone",Zack Snyder,89792502,8.20E+07
+514,Star Trek,7.9,616000,82,"Action, Adventure, Sci-Fi",PG-13,2009,2h 7m,"Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy",J.J. Abrams,385680446,1.50E+08
+515,The Texas Chain Saw Massacre,7.4,180000,89,Horror,R,1974,1h 23m,"Marilyn Burns, Edwin Neal, Allen Danziger, Paul A. Partain",Tobe Hooper,30900000,85000
+516,For Your Eyes Only,6.7,107000,54,"Action, Adventure, Thriller",PG,1981,2h 7m,"Roger Moore, Carole Bouquet, Topol, Lynn-Holly Johnson",John Glen,187412802,2.80E+07
+517,Sunshine,7.2,263000,64,"Sci-Fi, Thriller",R,2007,1h 47m,"Cillian Murphy, Rose Byrne, Chris Evans, Cliff Curtis",Danny Boyle,34806812,5.00E+07
+518,Erin Brockovich,7.4,215000,73,"Biography, Drama",R,2000,2h 11m,"Julia Roberts, Albert Finney, David Brisbin, Dawn Didawick",Steven Soderbergh,256271286,5.20E+07
+519,The Other Zoey,5.8,5600,NA,NA,PG-13,2023,1h 31m,NA,NA,0,0
+520,Dark Waters,7.6,98000,73,"Biography, Drama, History",PG-13,2019,2h 6m,"Mark Ruffalo, Anne Hathaway, Tim Robbins, Bill Pullman",Todd Haynes,13601384,2.00E+07
+521,Tomorrowland,6.4,189000,60,"Action, Adventure, Family",PG,2015,2h 10m,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy",Brad Bird,209154322,1.90E+08
+522,School of Rock,7.2,324000,82,"Comedy, Music",PG-13,2003,1h 49m,"Jack Black, Mike White, Joan Cusack, Adam Pascal",Richard Linklater,131095990,3.50E+07
+523,Brokeback Mountain,7.7,376000,87,"Drama, Romance",R,2005,2h 14m,"Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid",Ang Lee,178043761,1.40E+07
+524,Aladdin,6.9,285000,53,"Adventure, Comedy, Family",PG,2019,2h 8m,"Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari",Guy Ritchie,504050219,2.80E+07
+525,Malignant,6.2,105000,51,"Crime, Horror, Mystery",R,2021,1h 51m,"Annabelle Wallis, Maddie Hasson, George Young, Michole Briana White",James Wan,34891791,4.00E+07
+526,Mixed Nuts,5.4,13000,14,"Comedy, Drama",PG-13,1994,1h 37m,"Steve Martin, Madeline Kahn, Robert Klein, Anthony LaPaglia",Nora Ephron,0,1.50E+07
+527,Talladega Nights: The Ballad of Ricky Bobby,6.6,196000,66,"Comedy, Sport",PG-13,2006,1h 48m,"Will Ferrell, John C. Reilly, Sacha Baron Cohen, Gary Cole",Adam McKay,162966177,72500000
+528,Spectre,6.8,460000,60,"Action, Adventure, Thriller",PG-13,2015,2h 28m,"Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes",Sam Mendes,880674609,2.45E+08
+529,Patriot Games,6.8,119000,64,"Action, Thriller",R,1992,1h 57m,"Harrison Ford, Sean Bean, Anne Archer, Patrick Bergin",Phillip Noyce,178051587,4.50E+07
+530,Star Wars: Episode VIII - The Last Jedi,6.9,662000,84,"Action, Adventure, Fantasy",PG-13,2017,2h 32m,"Daisy Ridley, John Boyega, Mark Hamill, Carrie Fisher",Rian Johnson,NA,NA
+531,National Lampoon's European Vacation,6.2,71000,47,"Adventure, Comedy",PG-13,1985,1h 35m,"Chevy Chase, Beverly D'Angelo, Dana Hill, Jason Lively",Amy Heckerling,49364621,1.70E+07
+532,Anna,6.6,91000,40,"Action, Thriller",R,2019,1h 58m,"Sasha Luss, Helen Mirren, Luke Evans, Cillian Murphy",Luc Besson,31626978,3.40E+07
+533,The French Dispatch,7.1,146000,74,"Comedy, Drama, Romance",R,2021,1h 47m,"Benicio Del Toro, Adrien Brody, Tilda Swinton, Léa Seydoux",Wes Anderson,46333545,2.50E+07
+534,Robin Hood,6.6,280000,53,"Action, Adventure, Drama",PG-13,2010,2h 20m,"Russell Crowe, Cate Blanchett, Matthew Macfadyen, Max von Sydow",Ridley Scott,321669741,2.00E+08
+535,Midway,6.7,93000,47,"Action, Drama, History",PG-13,2019,2h 18m,"Ed Skrein, Patrick Wilson, Woody Harrelson, Luke Evans",Roland Emmerich,127420861,1.00E+08
+536,Antichrist,6.5,134000,49,"Drama, Horror, Thriller",NA,2009,1h 48m,"Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm",Lars von Trier,791867,1.10E+07
+537,"Girl, Interrupted",7.3,206000,51,"Biography, Drama",R,1999,2h 7m,"Winona Ryder, Angelina Jolie, Clea DuVall, Brittany Murphy",James Mangold,48350205,4.00E+07
+538,White Chicks,5.8,159000,41,"Comedy, Crime",PG-13,2004,1h 49m,"Marlon Wayans, Shawn Wayans, Busy Philipps, Maitland Ward",Keenen Ivory Wayans,113086475,3.70E+07
+539,Furious 7,7.1,410000,67,"Action, Crime, Thriller",PG-13,2015,2h 17m,"Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham",James Wan,1515341399,1.90E+08
+540,The Road Warrior,7.6,190000,77,"Action, Adventure, Sci-Fi",R,1981,1h 36m,"Mel Gibson, Bruce Spence, Michael Preston, Max Phipps",George Miller,0,0
+541,The Town,7.5,410000,74,"Crime, Drama, Thriller",R,2010,2h 5m,"Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner",Ben Affleck,154026136,3.70E+07
+542,Thirteen,6.8,96000,70,Drama,R,2003,1h 40m,"Evan Rachel Wood, Holly Hunter, Nikki Reed, Vanessa Hudgens",Catherine Hardwicke,0,2.00E+06
+543,Monster,7.3,159000,74,"Biography, Crime, Drama",R,2003,1h 49m,"Charlize Theron, Christina Ricci, Bruce Dern, Lee Tergesen",Patty Jenkins,60378584,8.00E+06
+544,Muzzle,5.5,1800,NA,NA,NA,2023,1h 40m,NA,NA,0,0
+545,Serenity,7.8,303000,74,"Action, Adventure, Sci-Fi",PG-13,2005,1h 59m,"Nathan Fillion, Gina Torres, Chiwetel Ejiofor, Alan Tudyk",Joss Whedon,38869464,3.90E+07
+546,Mask,7.2,32000,73,"Biography, Drama",PG-13,1985,2h,"Cher, Eric Stoltz, Sam Elliott, Estelle Getty",Peter Bogdanovich,42400000,7500000
+547,The Game,7.7,421000,63,"Drama, Mystery, Thriller",R,1997,2h 9m,"Michael Douglas, Deborah Kara Unger, Sean Penn, James Rebhorn",David Fincher,109423648,5.00E+07
+548,Alfie,7,16000,70,"Comedy, Drama",Unrated,1966,1h 54m,"Michael Caine, Shelley Winters, Millicent Martin, Julia Foster",Lewis Gilbert,35060882,6.00E+07
+549,Thor,7,888000,57,"Action, Fantasy",PG-13,2011,1h 55m,"Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",Kenneth Branagh,449326618,1.50E+08
+550,The Black Demon,3.7,7900,NA,NA,R,2023,1h 40m,NA,NA,0,0
+551,Just Go with It,6.4,261000,33,"Comedy, Romance",PG-13,2011,1h 57m,"Adam Sandler, Jennifer Aniston, Brooklyn Decker, Nicole Kidman",Dennis Dugan,214945591,8.00E+07
+552,Licorice Pizza,7.1,136000,90,"Comedy, Drama, Romance",R,2021,2h 13m,"Alana Haim, Cooper Hoffman, Sean Penn, Tom Waits",Paul Thomas Anderson,27423319,4.00E+07
+553,Misery,7.8,230000,75,"Drama, Thriller",R,1990,1h 47m,"James Caan, Kathy Bates, Richard Farnsworth, Frances Sternhagen",Rob Reiner,61276872,2.00E+07
+554,Chinatown,8.2,344000,92,"Drama, Mystery, Thriller",R,1974,2h 10m,"Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",Roman Polanski,3.00E+07,6.00E+06
+555,Mrs. Doubtfire,7.1,285000,54,"Comedy, Drama",PG-13,1993,2h 5m,"Robin Williams, Sally Field, Pierce Brosnan, Harvey Fierstein",Chris Columbus,441286195,2.50E+07
+556,When Harry Met Sally...,7.7,237000,76,"Comedy, Drama, Romance",R,1989,1h 35m,"Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby",Rob Reiner,92823546,1.60E+07
+557,Cruel Intentions,6.8,202000,56,"Drama, Romance",R,1999,1h 37m,"Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon, Selma Blair",Roger Kumble,76347426,10500000
+558,TRON: Legacy,6.8,351000,49,"Action, Adventure, Sci-Fi",PG,2010,2h 5m,"Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner",Joseph Kosinski,400062763,1.70E+08
+559,Traffic,7.6,217000,86,"Crime, Drama, Thriller",R,2000,2h 27m,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones, Jacob Vargas",Steven Soderbergh,207515725,4.80E+07
+560,Minority Report,7.6,576000,80,"Action, Crime, Mystery",PG-13,2002,2h 25m,"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",Steven Spielberg,358372926,1.02E+08
+561,Justice League,6.1,473000,45,"Action, Adventure, Fantasy",PG-13,2017,2h,"Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller",Zack Snyder,657926987,3.00E+08
+562,Suspiria,6.7,89000,64,"Drama, Fantasy, Horror",R,2018,2h 32m,"Chloë Grace Moretz, Tilda Swinton, Doris Hick, Malgorzata Bela",Luca Guadagnino,2884265,0
+563,Pearl Harbor,6.2,348000,44,"Action, Drama, History",PG-13,2001,3h 3m,"Ben Affleck, Kate Beckinsale, Josh Hartnett, William Lee Scott",Michael Bay,449220945,1.40E+08
+564,Blue Velvet,7.7,212000,75,"Crime, Drama, Mystery",R,1986,2h,"Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern",David Lynch,8618766,6.00E+06
+565,Sideways,7.5,2.00E+05,94,"Comedy, Drama, Romance",R,2004,2h 7m,"Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh",Alexander Payne,109502303,1.60E+07
+566,War of the Worlds,6.5,469000,73,"Action, Adventure, Sci-Fi",PG-13,2005,1h 56m,"Tom Cruise, Dakota Fanning, Tim Robbins, Miranda Otto",Steven Spielberg,603873119,1.32E+08
+567,American Sniper,7.3,520000,72,"Action, Biography, Drama",R,2014,2h 13m,"Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis",Clint Eastwood,542307423,58800000
+568,Hannibal,6.8,289000,57,"Crime, Drama, Thriller",R,2001,2h 11m,"Anthony Hopkins, Julianne Moore, Gary Oldman, Ray Liotta",Ridley Scott,351692268,8.70E+07
+569,13 Hours,7.3,157000,48,"Action, Drama, History",R,2016,2h 24m,"John Krasinski, Pablo Schreiber, James Badge Dale, David Denman",Michael Bay,NA,NA
+570,Moulin Rouge!,7.6,296000,66,"Drama, Musical, Romance",PG-13,2001,2h 7m,"Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent",Baz Luhrmann,179213434,52500000
+571,"Lock, Stock and Two Smoking Barrels",8.1,608000,66,"Action, Comedy, Crime",R,1998,1h 47m,"Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham",Guy Ritchie,28356188,1350000
+572,Sinister,6.8,274000,53,"Horror, Mystery, Thriller",R,2012,1h 50m,"Ethan Hawke, Juliet Rylance, James Ransone, Fred Thompson",Scott Derrickson,82515113,3.00E+06
+573,Solo: A Star Wars Story,6.9,372000,62,"Action, Adventure, Sci-Fi",PG-13,2018,2h 15m,"Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover",Ron Howard,392952373,2.50E+08
+574,The NeverEnding Story,7.3,154000,46,"Adventure, Drama, Family",PG,1984,1h 42m,"Noah Hathaway, Barret Oliver, Tami Stronach, Gerald McRaney",Wolfgang Petersen,20158808,2.70E+07
+575,Legend,6.3,71000,30,"Adventure, Fantasy, Romance",PG,1985,1h 34m,"Tom Cruise, Mia Sara, Tim Curry, David Bennent",Ridley Scott,42972994,2.50E+07
+576,Desperation Road,5.7,2300,NA,NA,R,2023,1h 52m,NA,NA,0,0
+577,The Giver,6.4,124000,47,"Drama, Romance, Sci-Fi",PG-13,2014,1h 37m,"Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift",Phillip Noyce,66980456,2.50E+07
+578,I Am Legend,7.2,8.00E+05,65,"Action, Drama, Horror",PG-13,2007,1h 41m,"Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",Francis Lawrence,585410052,1.50E+08
+579,Spider-Man 2,7.5,694000,83,"Action, Adventure, Sci-Fi",PG-13,2004,2h 7m,"Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco",Sam Raimi,788976453,2.00E+08
+580,Limitless,7.4,603000,59,"Sci-Fi, Thriller",PG-13,2011,1h 45m,"Bradley Cooper, Anna Friel, Abbie Cornish, Robert De Niro",Neil Burger,161849455,2.70E+07
+581,The Amazing Spider-Man,6.9,691000,66,"Action, Adventure, Sci-Fi",PG-13,2012,2h 16m,"Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan",Marc Webb,757930663,2.15E+08
+582,Wrath of Man,7.1,2.00E+05,57,"Action, Crime, Thriller",R,2021,1h 59m,"Jason Statham, Holt McCallany, Josh Hartnett, Rocci Boy Williams",Guy Ritchie,103966489,4.00E+07
+583,The Ballad of Buster Scruggs,7.2,164000,79,"Comedy, Drama, Musical",R,2018,2h 13m,"Tim Blake Nelson, Willie Watson, Clancy Brown, Danny McCarthy",Ethan CoenJoel Coen,0,0
+584,Fast Five,7.3,402000,66,"Action, Crime, Thriller",PG-13,2011,2h 10m,"Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster",Justin Lin,626137675,1.25E+08
+585,That's My Boy,5.5,107000,31,Comedy,R,2012,1h 56m,"Adam Sandler, Andy Samberg, Leighton Meester, Susan Sarandon",Sean Anders,58058367,7.00E+07
+586,House of Gucci,6.6,154000,59,"Biography, Crime, Drama",R,2021,2h 38m,"Lady Gaga, Adam Driver, Al Pacino, Jeremy Irons",Ridley Scott,153235995,7.50E+07
+587,Kick-Ass,7.6,586000,66,"Action, Comedy, Crime",R,2010,1h 57m,"Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown",Matthew Vaughn,96188903,2.80E+07
+588,Kingsman: The Golden Circle,6.7,355000,44,"Action, Adventure, Comedy",R,2017,2h 21m,"Taron Egerton, Colin Firth, Mark Strong, Channing Tatum",Matthew Vaughn,410902662,1.04E+08
+589,A Few Good Men,7.7,282000,62,"Drama, Thriller",R,1992,2h 18m,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon",Rob Reiner,243240178,4.00E+07
+590,Til Death Do Us Part,4.2,4100,NA,NA,NA,2023,1h 49m,NA,NA,0,0
+591,The Taking of Deborah Logan,6,39000,NA,NA,R,2014,1h 30m,NA,NA,0,0
+592,Where the Lilies Bloom,7.2,1000,NA,NA,G,1974,1h 38m,NA,NA,0,0
+593,Hit Man,7.8,721,82,"Action, Comedy",R,2023,1h 53m,"Glen Powell, Adria Arjona, Retta, Austin Amelio",Richard Linklater,0,0
+594,Pacific Rim,6.9,523000,65,"Action, Adventure, Sci-Fi",PG-13,2013,2h 11m,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day",Guillermo del Toro,411002906,1.80E+08
+595,The Last Samurai,7.8,463000,55,"Action, Drama",R,2003,2h 34m,"Tom Cruise, Ken Watanabe, Billy Connolly, William Atherton",Edward Zwick,456758981,1.40E+08
+596,Dodgeball: A True Underdog Story,6.7,263000,55,"Comedy, Sport",PG-13,2004,1h 32m,"Ben Stiller, Christine Taylor, Vince Vaughn, Rip Torn",Rawson Marshall Thurber,NA,NA
+597,Fantastic Beasts and Where to Find Them,7.2,5.00E+05,66,"Adventure, Family, Fantasy",PG-13,2016,2h 12m,"Eddie Redmayne, Katherine Waterston, Alison Sudol, Dan Fogler",David Yates,809342332,1.80E+08
+598,Shaun of the Dead,7.9,585000,76,"Comedy, Horror",R,2004,1h 39m,"Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis",Edgar Wright,30097092,6100000
+599,Kiss Kiss Bang Bang,7.5,235000,72,"Comedy, Crime, Mystery",R,2005,1h 43m,"Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen",Shane Black,15785148,1.50E+07
+600,Tusk,5.3,62000,55,"Comedy, Horror",R,2014,1h 42m,"Justin Long, Michael Parks, Haley Joel Osment, Genesis Rodriguez",Kevin Smith,1882074,3.00E+06
+601,Batman Forever,5.4,264000,54,"Action, Adventure",PG-13,1995,2h 1m,"Val Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman",Joel Schumacher,336529144,1.00E+08
+602,Scent of a Woman,8,322000,57,Drama,R,1992,2h 36m,"Al Pacino, Chris O'Donnell, James Rebhorn, Gabrielle Anwar",Martin Brest,134095253,3.10E+07
+603,After Sex,5.5,8500,NA,NA,TV-MA,2007,1h 17m,NA,NA,0,825000
+604,The English Patient,7.4,198000,87,"Drama, Romance, War",R,1996,2h 42m,"Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",Anthony Minghella,231976425,2.70E+07
+605,King Arthur: Legend of the Sword,6.7,229000,41,"Action, Adventure, Drama",PG-13,2017,2h 6m,"Charlie Hunnam, Astrid Bergès-Frisbey, Jude Law, Djimon Hounsou",Guy Ritchie,148675066,1.75E+08
+606,Weird Science,6.6,96000,46,"Comedy, Romance, Sci-Fi",PG-13,1985,1h 34m,"Anthony Michael Hall, Ilan Mitchell-Smith, Kelly LeBrock, Bill Paxton",John Hughes,38934048,7500000
+607,The Parent Trap,6.6,151000,64,"Adventure, Comedy, Drama",PG,1998,2h 8m,"Lindsay Lohan, Dennis Quaid, Natasha Richardson, Elaine Hendrix",Nancy Meyers,92108518,1.50E+07
+608,Avengers: Age of Ultron,7.3,908000,66,"Action, Adventure, Sci-Fi",PG-13,2015,2h 21m,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",Joss Whedon,1405403694,3.65E+08
+609,Phantom Thread,7.4,142000,90,"Drama, History, Romance",R,2017,2h 10m,"Vicky Krieps, Daniel Day-Lewis, Lesley Manville, Julie Vollono",Paul Thomas Anderson,47756590,3.50E+07
+610,Maze Runner: The Death Cure,6.2,157000,50,"Action, Adventure, Sci-Fi",PG-13,2018,2h 23m,"Dylan O'Brien, Ki Hong Lee, Kaya Scodelario, Thomas Brodie-Sangster",Wes Ball,288175335,6.20E+07
+611,The Addams Family,6.9,177000,57,"Comedy, Fantasy",PG-13,1991,1h 39m,"Anjelica Huston, Raul Julia, Christopher Lloyd, Dan Hedaya",Barry Sonnenfeld,191502426,3.00E+07
+612,Chicago,7.2,240000,81,"Comedy, Crime, Musical",PG-13,2002,1h 53m,"Renée Zellweger, Catherine Zeta-Jones, Richard Gere, Taye Diggs",Rob Marshall,306776732,4.50E+07
+613,Margaux,4.5,3200,NA,NA,R,2022,1h 44m,NA,NA,0,0
+614,Hostiles,7.2,93000,65,"Drama, Western",R,2017,2h 14m,"Scott Shepherd, Rosamund Pike, Ava Cooper, Stella Cooper",Scott Cooper,36976336,5.50E+07
+615,Oblivion,7,547000,54,"Action, Adventure, Sci-Fi",PG-13,2013,2h 4m,"Tom Cruise, Morgan Freeman, Andrea Riseborough, Olga Kurylenko",Joseph Kosinski,286168572,1.20E+08
+616,Guardians of the Galaxy Vol. 2,7.6,744000,67,"Action, Adventure, Comedy",PG-13,2017,2h 16m,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",James Gunn,863756051,2.00E+08
+617,A Christmas Prince,5.8,21000,NA,NA,TV-PG,2017,1h 32m,NA,NA,0,0
+618,Sleepy Hollow,7.3,379000,65,"Fantasy, Horror, Mystery",R,1999,1h 45m,"Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon",Tim Burton,206071502,1.00E+08
+619,Constantine,7,368000,50,"Action, Fantasy, Horror",R,2005,2h 1m,"Keanu Reeves, Rachel Weisz, Djimon Hounsou, Shia LaBeouf",Francis Lawrence,230884728,1.00E+08
+620,Batman & Robin,3.8,265000,29,"Action, Sci-Fi",PG-13,1997,2h 5m,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell, Uma Thurman",Joel Schumacher,238207122,1.25E+08
+621,The Man Who Knew Too Much,7.4,68000,76,"Drama, Thriller",PG,1956,2h,"James Stewart, Doris Day, Brenda de Banzie, Bernard Miles",Alfred Hitchcock,11300000,1200000
+622,Quantum of Solace,6.6,466000,58,"Action, Adventure, Mystery",PG-13,2008,1h 46m,"Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench",Marc Forster,589580482,2.00E+08
+623,G.I. Joe: The Rise of Cobra,5.7,214000,32,"Action, Adventure, Sci-Fi",PG-13,2009,1h 58m,"Dennis Quaid, Channing Tatum, Marlon Wayans, Adewale Akinnuoye-Agbaje",Stephen Sommers,302469017,1.75E+08
+624,Zero Dark Thirty,7.4,315000,95,"Drama, History, Thriller",R,2012,2h 37m,"Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong",Kathryn Bigelow,132820716,4.00E+07
+625,Daddy's Home,6.2,127000,42,"Comedy, Family",PG-13,2015,1h 36m,"Will Ferrell, Mark Wahlberg, Linda Cardellini, Thomas Haden Church",Sean Anders,242786137,5.00E+07
+626,Zombieland,7.6,610000,73,"Action, Comedy, Horror",R,2009,1h 28m,"Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin",Ruben Fleischer,102391540,23600000
+627,Prancer,6.4,6200,NA,NA,G,1989,1h 43m,NA,NA,0,0
+628,Rear Window,8.5,514000,100,"Mystery, Thriller",PG,1954,1h 52m,"James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",Alfred Hitchcock,37034514,1.00E+06
+629,Rush,8.1,505000,74,"Action, Biography, Drama",R,2013,2h 3m,"Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara",Ron Howard,90247624,3.80E+07
+630,Natural Born Killers,7.2,248000,74,"Action, Crime, Romance",R,1994,1h 59m,"Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield",Oliver Stone,50283563,3.40E+07
+631,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,511000,97,"Comedy, War",PG,1964,1h 35m,"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",Stanley Kubrick,9523464,1800000
+632,X-Men: First Class,7.7,716000,65,"Action, Sci-Fi",PG-13,2011,2h 11m,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon",Matthew Vaughn,353624124,1.60E+08
+633,X-Men: Apocalypse,6.9,455000,52,"Action, Adventure, Sci-Fi",PG-13,2016,2h 24m,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",Bryan Singer,543934787,1.78E+08
+634,The Bourne Identity,7.8,569000,68,"Action, Mystery, Thriller",PG-13,2002,1h 59m,"Franka Potente, Matt Damon, Chris Cooper, Clive Owen",Doug Liman,214034224,6.00E+07
+635,The Master,7.1,184000,86,"Drama, History",R,2012,2h 18m,"Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams, Jesse Plemons",Paul Thomas Anderson,28258060,3.20E+07
+636,57 Seconds,5.4,4700,NA,NA,R,2023,1h 39m,NA,NA,0,0
+637,Ace Ventura: Pet Detective,6.9,320000,37,Comedy,PG-13,1994,1h 26m,"Jim Carrey, Courteney Cox, Sean Young, Tone Loc",Tom Shadyac,107217396,1.50E+07
+638,"I, Tonya",7.5,237000,77,"Biography, Comedy, Drama",R,2017,1h 59m,"Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson",Craig Gillespie,53939297,1.10E+07
+639,The Matrix Reloaded,7.2,621000,62,"Action, Sci-Fi",R,2003,2h 18m,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",Lana WachowskiLilly Wachowski,738599701,1.50E+08
+640,Revolutionary Road,7.3,222000,69,"Drama, Romance",R,2008,1h 59m,"Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald, Jonathan Roumie",Sam Mendes,75981180,3.50E+07
+641,Rush Hour,7,289000,60,"Action, Comedy, Crime",PG-13,1998,1h 38m,"Jackie Chan, Chris Tucker, Ken Leung, Tom Wilkinson",Brett Ratner,244721064,3.30E+07
+642,Jingle Smells,3.8,185,NA,NA,NA,2023,NA,NA,NA,0,0
+643,Master and Commander: The Far Side of the World,7.5,234000,81,"Action, Adventure, Drama",PG-13,2003,2h 18m,"Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy",Peter Weir,212011111,1.50E+08
+644,Dawn of the Dead,7.3,268000,59,"Action, Horror",R,2004,1h 41m,"Sarah Polley, Ving Rhames, Mekhi Phifer, Jake Weber",Zack Snyder,102278712,2.60E+07
+645,The Warriors,7.5,109000,65,"Action, Crime, Thriller",R,1979,1h 33m,"Michael Beck, James Remar, Dorsey Wright, Brian Tyler",Walter Hill,22490039,4.00E+06
+646,Christine,6.8,91000,57,"Horror, Thriller",R,1983,1h 50m,"Keith Gordon, John Stockwell, Alexandra Paul, Robert Prosky",John Carpenter,21200000,9700000
+647,District 9,7.9,708000,81,"Action, Sci-Fi, Thriller",R,2009,1h 52m,"Sharlto Copley, David James, Jason Cope, Nathalie Boltt",Neill Blomkamp,210819611,3.00E+07
+648,Role Play,5.1,52,NA,NA,R,2023,1h 40m,NA,NA,0,0
+649,Jackie Brown,7.5,367000,62,"Crime, Drama, Thriller",R,1997,2h 34m,"Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda",Quentin Tarantino,39673162,1.20E+07
+650,eXistenZ,6.8,106000,68,"Horror, Mystery, Sci-Fi",R,1999,1h 37m,"Jude Law, Jennifer Jason Leigh, Ian Holm, Willem Dafoe",David Cronenberg,2856712,1.50E+07
+651,Straight Outta Compton,7.8,215000,72,"Biography, Drama, History",R,2015,2h 27m,"O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell, Neil Brown Jr.",F. Gary Gray,201634991,2.80E+07
+652,Cape Fear,7.3,212000,73,"Crime, Thriller",R,1991,2h 8m,"Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis",Martin Scorsese,182300000,3.50E+07
+653,Jumanji: The Next Level,6.7,275000,58,"Action, Adventure, Comedy",PG-13,2019,2h 3m,"Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan",Jake Kasdan,801693929,1.25E+08
+654,Kill Bill: Vol. 2,8,792000,83,"Action, Crime, Thriller",R,2004,2h 17m,"Uma Thurman, David Carradine, Michael Madsen, Daryl Hannah",Quentin Tarantino,152159461,3.00E+07
+655,Jack Reacher: Never Go Back,6.1,171000,47,"Action, Crime, Drama",PG-13,2016,1h 58m,"Tom Cruise, Cobie Smulders, Aldis Hodge, Robert Knepper",Edward Zwick,162146076,6.00E+07
+656,The Adam Project,6.7,224000,55,"Action, Adventure, Comedy",PG-13,2022,1h 46m,"Ryan Reynolds, Walker Scobell, Mark Ruffalo, Jennifer Garner",Shawn Levy,0,1.16E+08
+657,2012,5.8,393000,49,"Action, Adventure, Sci-Fi",PG-13,2009,2h 38m,"John Cusack, Thandiwe Newton, Chiwetel Ejiofor, Amanda Peet",Roland Emmerich,791217826,2.00E+08
+658,North by Northwest,8.3,341000,98,"Action, Adventure, Mystery",Approved,1959,2h 16m,"Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",Alfred Hitchcock,13275000,4.00E+06
+659,Caddyshack,7.2,125000,48,"Comedy, Sport",13+,1980,1h 38m,"Chevy Chase, Rodney Dangerfield, Bill Murray, Ted Knight",Harold Ramis,39846344,6.00E+06
+660,The Unlikely Pilgrimage of Harold Fry,6.8,3000,NA,NA,NA,2023,1h 48m,NA,NA,0,0
+661,The Hobbit: The Battle of the Five Armies,7.4,561000,59,"Adventure, Fantasy",PG-13,2014,2h 24m,"Ian McKellen, Martin Freeman, Richard Armitage, Cate Blanchett",Peter Jackson,956019788,2.50E+08
+662,Four Weddings and a Funeral,7.1,163000,81,"Comedy, Drama, Romance",R,1994,1h 57m,"Hugh Grant, Andie MacDowell, James Fleet, Simon Callow",Mike Newell,245700832,4400000
+663,Cast Away,7.8,627000,73,"Adventure, Drama, Romance",PG-13,2000,2h 23m,"Tom Hanks, Helen Hunt, Paul Sanchez, Lari White",Robert Zemeckis,429632142,9.00E+07
+664,The Nutcracker,5.8,2400,NA,NA,G,1993,1h 32m,NA,NA,2119994,1.90E+07
+665,Valentine's Day,5.7,124000,34,"Comedy, Romance",PG-13,2010,2h 5m,"Julia Roberts, Jamie Foxx, Anne Hathaway, Jessica Alba",Garry Marshall,216485654,5.20E+07
+666,Cop Land,7,104000,64,"Crime, Drama, Thriller",R,1997,1h 45m,"Sylvester Stallone, Harvey Keitel, Ray Liotta, Robert De Niro",James Mangold,44862187,1.50E+07
+667,The Untouchables,7.8,326000,79,"Crime, Drama, Thriller",R,1987,1h 59m,"Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith",Brian De Palma,76270454,2.50E+07
+668,Red Notice,6.3,308000,37,"Action, Comedy, Thriller",PG-13,2021,1h 58m,"Dwayne Johnson, Ryan Reynolds, Gal Gadot, Ritu Arya",Rawson Marshall Thurber,178143,1.60E+08
+669,Iron Man 3,7.1,887000,62,"Action, Adventure, Sci-Fi",PG-13,2013,2h 10m,"Robert Downey Jr., Guy Pearce, Gwyneth Paltrow, Don Cheadle",Shane Black,1215577205,2.00E+08
+670,The Village,6.6,274000,44,"Drama, Mystery, Thriller",PG-13,2004,1h 48m,"Sigourney Weaver, William Hurt, Joaquin Phoenix, Bryce Dallas Howard",M. Night Shyamalan,256697520,6.00E+07
+671,The 40-Year-Old Virgin,7.1,459000,73,"Comedy, Romance",R,2005,1h 56m,"Steve Carell, Catherine Keener, Paul Rudd, Romany Malco",Judd Apatow,NA,NA
+672,JFK,8,167000,72,"Drama, History, Thriller",R,1991,3h 9m,"Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau",Oliver Stone,205405498,4.00E+07
+673,Bridesmaids,6.8,306000,75,Comedy,R,2011,2h 5m,"Kristen Wiig, Maya Rudolph, Rose Byrne, Terry Crews",Paul Feig,288383523,32500000
+674,Mission: Impossible - Ghost Protocol,7.4,522000,73,"Action, Adventure, Thriller",PG-13,2011,2h 12m,"Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton",Brad Bird,694713380,1.45E+08
+675,RED,7,320000,60,"Action, Comedy, Crime",PG-13,2010,1h 51m,"Bruce Willis, Helen Mirren, Morgan Freeman, Mary-Louise Parker",Robert Schwentke,1.99E+08,5.80E+07
+676,Melancholia,7.1,193000,81,"Drama, Sci-Fi",R,2011,2h 15m,"Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland, Alexander Skarsgård",Lars von Trier,15946321,7400000
+677,The Wolverine,6.7,486000,61,"Action, Sci-Fi",PG-13,2013,2h 6m,"Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima",James Mangold,415440673,1.20E+08
+678,Chef,7.3,228000,68,"Adventure, Comedy, Drama",R,2014,1h 54m,"Jon Favreau, Robert Downey Jr., Scarlett Johansson, Dustin Hoffman",Jon Favreau,45967935,1.10E+07
+679,She Said,7.3,37000,NA,NA,R,2022,2h 9m,NA,NA,10632378,3.20E+07
+680,Sweeney Todd: The Demon Barber of Fleet Street,7.3,383000,83,"Drama, Horror, Musical",R,2007,1h 56m,"Johnny Depp, Helena Bonham Carter, Alan Rickman, Timothy Spall",Tim Burton,1.52E+08,5.00E+07
+681,Captain America: Civil War,7.8,835000,75,"Action, Sci-Fi",PG-13,2016,2h 27m,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",Anthony RussoJoe Russo,1155046416,2.50E+08
+682,Insidious,6.8,334000,52,"Horror, Mystery, Thriller",PG-13,2010,1h 43m,"Patrick Wilson, Rose Byrne, Ty Simpkins, Lin Shaye",James Wan,99870886,1500000
+683,Logan Lucky,7,160000,78,"Action, Comedy, Crime",PG-13,2017,1h 58m,"Channing Tatum, Adam Driver, Daniel Craig, Farrah Mackenzie",Steven Soderbergh,48453605,2.90E+07
+684,Spider-Man: Far from Home,7.4,540000,69,"Action, Adventure, Comedy",PG-13,2019,2h 9m,"Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei",Jon Watts,NA,NA
+685,The Man from U.N.C.L.E.,7.2,327000,56,"Action, Adventure, Comedy",PG-13,2015,1h 56m,"Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki",Guy Ritchie,108145109,7.50E+07
+686,Men in Black II,6.2,397000,49,"Action, Adventure, Comedy",PG-13,2002,1h 28m,"Tommy Lee Jones, Will Smith, Rip Torn, Lara Flynn Boyle",Barry Sonnenfeld,445135288,1.40E+08
+687,Austin Powers: International Man of Mystery,7,254000,51,"Adventure, Comedy",PG-13,1997,1h 29m,"Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers",Jay Roach,67711748,16500000
+688,Nefarious,6.4,21000,NA,NA,R,2023,1h 37m,NA,NA,5433685,3.00E+06
+689,Hercules,7.3,250000,74,"Animation, Adventure, Comedy",G,1997,1h 33m,"Tate Donovan, Susan Egan, James Woods, Barbara Barrie",Ron ClementsJohn Musker,252712101,8.50E+07
+690,They Live,7.2,142000,55,"Action, Horror, Sci-Fi",R,1988,1h 34m,"Roddy Piper, Keith David, Meg Foster, George 'Buck' Flower",John Carpenter,13008928,4.00E+06
+691,Rosemary's Baby,8,231000,96,"Drama, Horror",Approved,1968,2h 17m,"Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer",Roman Polanski,33395426,3200000
+692,Big Fish,8,454000,58,"Adventure, Drama, Fantasy",PG-13,2003,2h 5m,"Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange",Tim Burton,123218424,7.00E+07
+693,Lifeforce,6.1,29000,50,"Action, Horror, Mystery",R,1985,1h 41m,"Steve Railsback, Mathilda May, Peter Firth, Frank Finlay",Tobe Hooper,11603545,2.50E+07
+694,Silence,7.2,121000,79,"Drama, History",R,2016,2h 41m,"Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano",Martin Scorsese,23737523,4.60E+07
+695,A.I. Artificial Intelligence,7.2,320000,65,"Drama, Sci-Fi",PG-13,2001,2h 26m,"Haley Joel Osment, Jude Law, Frances O'Connor, Sam Robards",Steven Spielberg,235926552,1.00E+08
+696,Sense and Sensibility,7.7,123000,84,"Drama, Romance",PG,1995,2h 16m,"Emma Thompson, Kate Winslet, James Fleet, Tom Wilkinson",Ang Lee,134582776,1.60E+07
+697,Gods of Egypt,5.4,124000,25,"Action, Adventure, Drama",PG-13,2016,2h 7m,"Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Chadwick Boseman",Alex Proyas,150680864,1.40E+08
+698,Dogma,7.3,226000,62,"Adventure, Comedy, Drama",R,1999,2h 10m,"Ben Affleck, Matt Damon, Linda Fiorentino, Bud Cort",Kevin Smith,31429330,1.00E+07
+699,Austin Powers in Goldmember,6.2,220000,62,"Action, Adventure, Comedy",PG-13,2002,1h 34m,"Mike Myers, Beyoncé, Seth Green, Michael York",Jay Roach,296938801,6.30E+07
+700,X-Men: Days of Future Past,7.9,737000,75,"Action, Adventure, Sci-Fi",PG-13,2014,2h 12m,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy",Bryan Singer,747862775,2.50E+08
+701,Raging Bull,8.1,373000,90,"Biography, Drama, Sport",R,1980,2h 9m,"Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",Martin Scorsese,2.30E+07,1.80E+07
+702,Creed,7.6,306000,82,"Action, Drama, Sport",PG-13,2015,2h 13m,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad",Ryan Coogler,173567581,3.70E+07
+703,Apollo 13,7.7,310000,78,"Adventure, Drama, History",PG,1995,2h 20m,"Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise",Ron Howard,355237933,5.20E+07
+704,The Magnificent Seven,6.9,225000,54,"Action, Adventure, Drama",PG-13,2016,2h 12m,"Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio",Antoine Fuqua,162360636,9.00E+07
+705,Legends of the Fall,7.5,179000,45,"Drama, Romance, War",R,1994,2h 13m,"Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond",Edward Zwick,160638883,3.00E+07
+706,Happy Gilmore,7,243000,31,"Comedy, Sport",PG-13,1996,1h 32m,"Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay",Dennis Dugan,41205099,1.20E+07
+707,Mission: Impossible III,6.9,385000,66,"Action, Adventure, Thriller",PG-13,2006,2h 6m,"Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman",J.J. Abrams,398479497,1.50E+08
+708,Star Wars: Episode II - Attack of the Clones,6.6,746000,54,"Action, Adventure, Fantasy",PG,2002,2h 22m,"Hayden Christensen, Natalie Portman, Ewan McGregor, Christopher Lee",George Lucas,649398328,1.20E+08
+709,Spider-Man 3,6.3,626000,59,"Action, Adventure, Sci-Fi",PG-13,2007,2h 19m,"Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church",Sam Raimi,894983373,2.58E+08
+710,Grown Ups,6,269000,30,Comedy,PG-13,2010,1h 42m,"Adam Sandler, Salma Hayek, Kevin James, Chris Rock",Dennis Dugan,271430189,8.00E+07
+711,High Plains Drifter,7.4,63000,69,"Drama, Mystery, Western",R,1973,1h 45m,"Clint Eastwood, Verna Bloom, Marianna Hill, Mitchell Ryan",Clint Eastwood,15700000,5500000
+712,Rumble Through the Dark,5.7,2800,NA,NA,R,2023,1h 56m,NA,NA,0,0
+713,Pirates of the Caribbean: On Stranger Tides,6.6,555000,45,"Action, Adventure, Fantasy",PG-13,2011,2h 16m,"Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush",Rob Marshall,1045713802,3.79E+08
+714,The Highwaymen,6.9,1.00E+05,58,"Biography, Crime, Drama",R,2019,2h 12m,"Kevin Costner, Woody Harrelson, Kathy Bates, John Carroll Lynch",John Lee Hancock,0,4.90E+07
+715,Riddick,6.4,176000,49,"Action, Adventure, Sci-Fi",R,2013,1h 59m,"Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Mollà",David Twohy,98337295,3.80E+07
+716,Pirates of the Caribbean: At World's End,7.1,682000,50,"Action, Adventure, Fantasy",PG-13,2007,2h 49m,"Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush",Gore Verbinski,9.61E+08,3.00E+08
+717,Donnie Brasco,7.7,326000,77,"Biography, Crime, Drama",R,1997,2h 7m,"Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby",Mike Newell,124909762,3.50E+07
+718,Game Night,6.9,251000,66,"Action, Adventure, Comedy",R,2018,1h 40m,"Jason Bateman, Rachel McAdams, Kyle Chandler, Sharon Horgan",John Francis DaleyJonathan Goldstein,117501013,3.70E+07
+719,Vicky Cristina Barcelona,7.1,266000,70,"Comedy, Drama, Romance",PG-13,2008,1h 36m,"Rebecca Hall, Scarlett Johansson, Javier Bardem, Christopher Evan Welch",Woody Allen,96409300,1.50E+07
+720,Sleepless in Seattle,6.8,188000,72,"Comedy, Drama, Romance",PG,1993,1h 45m,"Tom Hanks, Meg Ryan, Ross Malinger, Rita Wilson",Nora Ephron,227799884,2.10E+07
+721,Fifty Shades Freed,4.5,72000,31,"Drama, Romance, Thriller",R,2018,1h 45m,"Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford",James Foley,368307760,5.50E+07
+722,After We Collided,5,37000,14,"Drama, Romance",R,2020,1h 45m,"Josephine Langford, Hero Fiennes Tiffin, Dylan Sprouse, Louise Lombard",Roger Kumble,4.20E+07,0
+723,Jerry Maguire,7.3,283000,77,"Comedy, Drama, Romance",R,1996,2h 19m,"Tom Cruise, Cuba Gooding Jr., Renée Zellweger, Kelly Preston",Cameron Crowe,273552592,5.00E+07
+724,Friday,7.2,122000,54,"Comedy, Drama",R,1995,1h 31m,"Ice Cube, Chris Tucker, Nia Long, Tom Lister Jr.",F. Gary Gray,28215918,3500000
+725,Marie Antoinette,6.5,119000,65,"Biography, Drama, History",PG-13,2006,2h 3m,"Kirsten Dunst, Jason Schwartzman, Rip Torn, Steve Coogan",Sofia Coppola,60917189,4.00E+07
+726,The Bricklayer,6.8,19,NA,NA,R,2023,1h 50m,NA,NA,0,0
+727,Argo,7.7,633000,86,"Biography, Drama, Thriller",R,2012,2h,"Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin",Ben Affleck,232325503,44500000
+728,The Twilight Saga: Breaking Dawn - Part 2,5.5,260000,52,"Adventure, Drama, Fantasy",PG-13,2012,1h 55m,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli",Bill Condon,829747654,1.20E+08
+729,Clear and Present Danger,6.9,106000,72,"Action, Crime, Drama",PG-13,1994,2h 21m,"Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida",Phillip Noyce,215887717,6.20E+07
+730,Blazing Saddles,7.7,149000,73,"Comedy, Western",R,1974,1h 33m,"Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman",Mel Brooks,119500000,2600000
+731,The Fate of the Furious,6.6,249000,56,"Action, Crime, Thriller",PG-13,2017,2h 16m,"Vin Diesel, Jason Statham, Dwayne Johnson, Michelle Rodriguez",F. Gary Gray,1236005118,2.50E+08
+732,The Amazing Spider-Man 2,6.6,529000,53,"Action, Adventure, Sci-Fi",PG-13,2014,2h 22m,"Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti",Marc Webb,708962323,2.00E+08
+733,The Driver,7.1,19000,56,"Action, Crime, Thriller",R,1978,1h 31m,"Ryan O'Neal, Bruce Dern, Isabelle Adjani, Ronee Blakley",Walter Hill,0,4.00E+06
+734,Good Burger,5.8,32000,41,"Comedy, Family",PG,1997,1h 35m,"Kel Mitchell, Kenan Thompson, Sinbad, Abe Vigoda",Brian Robbins,23700000,8500000
+735,The Lost World: Jurassic Park,6.5,438000,59,"Action, Adventure, Sci-Fi",PG-13,1997,2h 9m,"Jeff Goldblum, Julianne Moore, Pete Postlethwaite, Vince Vaughn",Steven Spielberg,618638999,7.30E+07
+736,Carrie,7.4,203000,86,"Horror, Mystery",R,1976,1h 38m,"Sissy Spacek, Piper Laurie, Amy Irving, John Travolta",Brian De Palma,82394288,3.00E+07
+737,It Chapter Two,6.5,294000,58,"Drama, Fantasy, Horror",R,2019,2h 49m,"Jessica Chastain, James McAvoy, Bill Hader, Isaiah Mustafa",Andy Muschietti,473122525,7.90E+07
+738,Mafia Mamma,5.4,8600,42,"Action, Comedy, Crime",R,2023,1h 41m,"Toni Collette, Monica Bellucci, Sophia Nomvete, Alessandro Bressanello",Catherine Hardwicke,3902761,4.10E+07
+739,Vertigo,8.3,421000,100,"Mystery, Romance, Thriller",PG,1958,2h 8m,"James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",Alfred Hitchcock,7797728,2479000
+740,Mars Attacks!,6.4,240000,52,"Comedy, Sci-Fi",PG-13,1996,1h 46m,"Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker, Annette Bening",Tim Burton,101371017,7.00E+07
+741,Darkest Hour,7.4,216000,75,"Biography, Drama, War",PG-13,2017,2h 5m,"Gary Oldman, Lily James, Kristin Scott Thomas, Ben Mendelsohn",Joe Wright,150847207,3.00E+07
+742,Men in Black 3,6.8,382000,58,"Action, Adventure, Comedy",PG-13,2012,1h 46m,"Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement",Barry Sonnenfeld,624026776,2.25E+08
+743,Moonraker,6.2,107000,66,"Action, Adventure, Sci-Fi",PG,1979,2h 6m,"Roger Moore, Lois Chiles, Michael Lonsdale, Richard Kiel",Lewis Gilbert,210308099,3.40E+07
+744,Law Abiding Citizen,7.4,314000,34,"Action, Crime, Drama",R,2009,1h 49m,"Gerard Butler, Jamie Foxx, Leslie Bibb, Colm Meaney",F. Gary Gray,127944208,5.30E+07
+745,Collateral,7.5,427000,71,"Action, Crime, Drama",R,2004,2h,"Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo",Michael Mann,217764291,6.50E+07
+746,The Terminal,7.4,487000,55,"Comedy, Drama, Romance",PG-13,2004,2h 8m,"Tom Hanks, Catherine Zeta-Jones, Chi McBride, Stanley Tucci",Steven Spielberg,219417255,6.00E+07
+747,Magnolia,8,325000,78,Drama,R,1999,3h 8m,"Tom Cruise, Jason Robards, Julianne Moore, Philip Seymour Hoffman",Paul Thomas Anderson,48451803,3.70E+07
+748,Three Thousand Years of Longing,6.7,57000,60,"Drama, Fantasy, Romance",R,2022,1h 48m,"Tilda Swinton, Idris Elba, Erdil Yasaroglu, Sarah Houbolt",George Miller,20282422,6.00E+07
+749,Speak,7.2,29000,NA,NA,PG-13,2004,1h 29m,NA,NA,0,1.00E+06
+750,Enemy,6.9,209000,61,"Drama, Mystery, Thriller",R,2013,1h 31m,"Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon, Isabella Rossellini",Denis Villeneuve,3396726,0
+751,The Predator,5.3,141000,48,"Action, Adventure, Horror",R,2018,1h 47m,"Boyd Holbrook, Trevante Rhodes, Jacob Tremblay, Keegan-Michael Key",Shane Black,160542134,8.80E+07
+752,Sex Drive,6.5,91000,49,"Comedy, Romance",R,2008,1h 49m,"Josh Zuckerman, Clark Duke, Amanda Crew, James Marsden",Sean Anders,18755936,1.90E+07
+753,Nymphomaniac: Vol. II,6.6,97000,60,Drama,NA,2013,2h 4m,"Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe, Jamie Bell",Lars von Trier,4934725,0
+754,You've Got Mail,6.7,226000,57,"Comedy, Drama, Romance",PG,1998,1h 59m,"Tom Hanks, Meg Ryan, Greg Kinnear, Parker Posey",Nora Ephron,250821495,6.50E+07
+755,This Is 40,6.2,149000,59,"Comedy, Drama, Romance",R,2012,2h 14m,"Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow",Judd Apatow,88215156,3.50E+07
+756,Anchorman: The Legend of Ron Burgundy,7.1,374000,63,Comedy,PG-13,2004,1h 34m,"Will Ferrell, Christina Applegate, Steve Carell, Paul Rudd",Adam McKay,90574188,2.60E+07
+757,There's Something About Mary,7.1,325000,69,"Comedy, Romance",R,1998,1h 59m,"Cameron Diaz, Matt Dillon, Ben Stiller, Lee Evans",Bobby FarrellyPeter Farrelly,369884651,2.30E+07
+758,Horrible Bosses,6.9,465000,57,"Comedy, Crime",R,2011,1h 38m,"Jason Bateman, Charlie Day, Jason Sudeikis, Steve Wiebe",Seth Gordon,209838559,3.50E+07
+759,The Chronicles of Riddick,6.6,239000,38,"Action, Adventure, Sci-Fi",R,2004,1h 59m,"Vin Diesel, Judi Dench, Colm Feore, Thandiwe Newton",David Twohy,115772733,1.05E+08
+760,The Rock,7.4,354000,58,"Action, Adventure, Thriller",R,1996,2h 16m,"Sean Connery, Nicolas Cage, Ed Harris, John Spencer",Michael Bay,335062621,7.50E+07
+761,Sherlock Holmes,7.6,661000,57,"Action, Adventure, Mystery",PG-13,2009,2h 8m,"Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong",Guy Ritchie,524028679,9.00E+07
+762,The Da Vinci Code,6.6,453000,46,"Mystery, Thriller",PG-13,2006,2h 29m,"Tom Hanks, Audrey Tautou, Jean Reno, Ian McKellen",Ron Howard,767820459,1.25E+08
+763,North Star,6.9,78,NA,NA,NA,2023,1h 35m,NA,NA,0,0
+764,Gifted,7.6,127000,60,Drama,PG-13,2017,1h 41m,"Chris Evans, Mckenna Grace, Lindsay Duncan, Octavia Spencer",Marc Webb,40343446,7.00E+06
+765,Flight,7.3,371000,76,"Drama, Thriller",R,2012,2h 18m,"Denzel Washington, Nadine Velazquez, Don Cheadle, John Goodman",Robert Zemeckis,161772375,3.10E+07
+766,Fast & Furious 6,7,412000,61,"Action, Adventure, Crime",PG-13,2013,2h 10m,"Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez",Justin Lin,788680968,1.60E+08
+767,Big Trouble in Little China,7.2,151000,53,"Action, Adventure, Comedy",PG-13,1986,1h 39m,"Kurt Russell, Kim Cattrall, Dennis Dun, James Hong",John Carpenter,1.10E+07,2.50E+07
+768,Falling Down,7.6,203000,56,"Action, Crime, Drama",R,1993,1h 53m,"Michael Douglas, Robert Duvall, Barbara Hershey, Rachel Ticotin",Joel Schumacher,40903593,2.50E+07
+769,The Change-Up,6.3,193000,39,"Comedy, Fantasy",R,2011,1h 52m,"Jason Bateman, Ryan Reynolds, Olivia Wilde, Leslie Mann",David Dobkin,75450437,5.20E+07
+770,"Trees, and Other Entanglements",6.9,107,NA,NA,NA,2023,1h 55m,NA,NA,NA,NA
+771,Varsity Blues,6.5,48000,50,"Comedy, Drama, Romance",R,1999,1h 46m,"James Van Der Beek, Jon Voight, Paul Walker, Ron Lester",Brian Robbins,0,0
+772,Midnight Run,7.5,93000,78,"Action, Comedy, Crime",R,1988,2h 6m,"Robert De Niro, Charles Grodin, Yaphet Kotto, John Ashton",Martin Brest,38413606,3.00E+07
+773,Fear,6.2,53000,51,"Drama, Thriller",R,1996,1h 37m,"Mark Wahlberg, Reese Witherspoon, William Petersen, Amy Brenneman",James Foley,0,0
+774,Allegiant,5.7,131000,33,"Action, Adventure, Mystery",PG-13,2016,2h,"Shailene Woodley, Theo James, Jeff Daniels, Naomi Watts",Robert Schwentke,179246868,1.10E+08
+775,The Counselor,5.4,105000,48,"Action, Adventure, Crime",R,2013,1h 57m,"Michael Fassbender, Penélope Cruz, Cameron Diaz, Javier Bardem",Ridley Scott,71009334,2.50E+07
+776,Vanilla Sky,6.9,282000,45,"Fantasy, Mystery, Romance",R,2001,2h 16m,"Tom Cruise, Penélope Cruz, Cameron Diaz, Kurt Russell",Cameron Crowe,203388341,6.80E+07
+777,Orphan,7,247000,42,"Horror, Mystery, Thriller",R,2009,2h 3m,"Vera Farmiga, Peter Sarsgaard, Isabelle Fuhrman, CCH Pounder",Jaume Collet-Serra,77912251,2.00E+07
+778,Crimes of the Future,5.8,39000,67,"Drama, Horror, Sci-Fi",R,2022,1h 47m,"Viggo Mortensen, Léa Seydoux, Kristen Stewart, Scott Speedman",David Cronenberg,4400000,2.70E+07
+779,Eastern Promises,7.6,257000,83,"Crime, Drama, Thriller",R,2007,1h 40m,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin",David Cronenberg,56106607,51500000
+780,Mallrats,7,128000,41,"Comedy, Romance",R,1995,1h 34m,"Shannen Doherty, Jeremy London, Jason Lee, Claire Forlani",Kevin Smith,2122561,6.00E+06
+781,Blood Diamond,8,577000,64,"Adventure, Drama, Thriller",R,2006,2h 23m,"Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers",Edward Zwick,171720398,1.00E+08
+782,Mission: Impossible - Rogue Nation,7.4,404000,75,"Action, Adventure, Thriller",PG-13,2015,2h 11m,"Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg",Christopher McQuarrie,682716636,1.50E+08
+783,Escape from New York,7.1,154000,76,"Action, Adventure, Sci-Fi",R,1981,1h 39m,"Kurt Russell, Lee Van Cleef, Ernest Borgnine, Donald Pleasence",John Carpenter,50244700,6.00E+06
+784,"O Brother, Where Art Thou?",7.7,326000,69,"Adventure, Comedy, Crime",PG-13,2000,1h 47m,"George Clooney, John Turturro, Tim Blake Nelson, John Goodman",Joel CoenEthan Coen,71870729,2.60E+07
+785,Crash,6.4,65000,53,Drama,NC-17,1996,1h 40m,"James Spader, Holly Hunter, Elias Koteas, Deborah Kara Unger",David Cronenberg,98410061,6500000
+786,Overboard,6.9,66000,53,"Comedy, Romance",PG,1987,1h 52m,"Goldie Hawn, Kurt Russell, Edward Herrmann, Katherine Helmond",Garry Marshall,91244913,1.20E+07
+787,Spaceballs,7.1,203000,46,"Adventure, Comedy, Sci-Fi",PG,1987,1h 36m,"Mel Brooks, John Candy, Rick Moranis, Bill Pullman",Mel Brooks,38119483,22700000
+788,Alien³,6.4,315000,59,"Action, Horror, Sci-Fi",R,1992,1h 54m,"Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann",David Fincher,159773545,5.00E+07
+789,Fantastic Beasts: The Crimes of Grindelwald,6.5,303000,52,"Adventure, Family, Fantasy",PG-13,2018,2h 14m,"Eddie Redmayne, Katherine Waterston, Dan Fogler, Johnny Depp",David Yates,654855901,2.00E+08
+790,Black Mass,6.9,190000,68,"Biography, Crime, Drama",R,2015,2h 3m,"Johnny Depp, Benedict Cumberbatch, Dakota Johnson, Joel Edgerton",Scott Cooper,98837872,5.30E+07
+791,9½ Weeks,5.9,43000,50,"Drama, Romance",R,1986,1h 57m,"Mickey Rourke, Kim Basinger, Margaret Whitton, David Margulies",Adrian Lyne,NA,NA
+792,Walden,5.8,283,NA,NA,NA,2023,1h 42m,NA,NA,0,0
+793,The Beach,6.6,251000,43,"Adventure, Drama, Romance",R,2000,1h 59m,"Leonardo DiCaprio, Tilda Swinton, Daniel York, Patcharawan Patarakijjanon",Danny Boyle,144056873,4.00E+07
+794,True Grit,7.6,353000,80,"Drama, Western",PG-13,2010,1h 50m,"Jeff Bridges, Matt Damon, Hailee Steinfeld, Josh Brolin",Ethan CoenJoel Coen,252276927,3.80E+07
+795,Terminator Salvation,6.5,374000,49,"Action, Adventure, Sci-Fi",PG-13,2009,1h 55m,"Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood",McG,371353001,2.00E+08
+796,Gravity,7.7,853000,96,"Drama, Sci-Fi, Thriller",PG-13,2013,1h 31m,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",Alfonso Cuarón,723192705,1.05E+08
+797,Fog City,3,176,NA,NA,NA,2023,1h 37m,NA,NA,0,0
+798,Hugo,7.5,334000,83,"Adventure, Drama, Family",PG,2011,2h 6m,"Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley",Martin Scorsese,185770160,1.70E+08
+799,The Client,6.7,72000,65,"Crime, Drama, Mystery",PG-13,1994,1h 59m,"Susan Sarandon, Tommy Lee Jones, Brad Renfro, Mary-Louise Parker",Joel Schumacher,117615211,4.50E+07
+800,Parenthood,7.1,54000,82,"Comedy, Drama",PG-13,1989,2h 4m,"Steve Martin, Mary Steenburgen, Dianne Wiest, Jason Robards",Ron Howard,126297830,2.00E+07
+801,Glass,6.6,262000,43,"Drama, Horror, Sci-Fi",PG-13,2019,2h 9m,"James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy",M. Night Shyamalan,246999039,2.00E+07
+802,The Hurt Locker,7.5,469000,95,"Drama, Thriller, War",R,2008,2h 11m,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",Kathryn Bigelow,49230772,1.50E+07
+803,Doctor Strange,7.5,789000,72,"Action, Adventure, Fantasy",PG-13,2016,1h 55m,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",Scott Derrickson,676343174,1.80E+08
+804,Wedding Crashers,7,371000,64,"Comedy, Romance",R,2005,1h 59m,"Owen Wilson, Vince Vaughn, Rachel McAdams, Christopher Walken",David Dobkin,288485135,4.00E+07
+805,The Time Traveler's Wife,7.1,156000,47,"Comedy, Drama, Fantasy",PG-13,2009,1h 47m,"Eric Bana, Rachel McAdams, Ron Livingston, Michelle Nolden",Robert Schwentke,101344412,3.90E+07
+806,Road Trip,6.5,176000,55,Comedy,R,2000,1h 33m,"Breckin Meyer, Seann William Scott, Amy Smart, Paulo Costanzo",Todd Phillips,119754278,1.60E+07
+807,Coming to America,7.1,220000,47,"Comedy, Romance",R,1988,1h 57m,"Eddie Murphy, Paul Bates, Garcelle Beauvais, Feather",John Landis,288752301,3.00E+07
+808,American Graffiti,7.4,97000,97,"Comedy, Drama",PG,1973,1h 50m,"Richard Dreyfuss, Ron Howard, Paul Le Mat, Charles Martin Smith",George Lucas,1.40E+08,777000
+809,Super 8,7,365000,72,"Action, Mystery, Sci-Fi",PG-13,2011,1h 52m,"Elle Fanning, AJ Michalka, Kyle Chandler, Joel Courtney",J.J. Abrams,260095986,5.00E+07
+810,Hostel,5.9,189000,55,Horror,R,2005,1h 34m,"Jay Hernandez, Derek Richardson, Eythor Gudjonsson, Barbara Nedeljakova",Eli Roth,81979826,4800000
+811,The Life Aquatic with Steve Zissou,7.2,208000,62,"Action, Adventure, Comedy",R,2004,1h 59m,"Bill Murray, Owen Wilson, Anjelica Huston, Cate Blanchett",Wes Anderson,34808403,5.00E+07
+812,The Princess Switch,6.1,31000,NA,NA,TV-PG,2018,1h 41m,NA,NA,0,0
+813,Aladdin,8,456000,86,"Animation, Adventure, Comedy",G,1992,1h 30m,"Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",Ron ClementsJohn Musker,504050219,2.80E+07
+814,Shooter,7.1,351000,53,"Action, Drama, Thriller",R,2007,2h 4m,"Mark Wahlberg, Michael Peña, Rhona Mitra, Danny Glover",Antoine Fuqua,95696996,6.10E+07
+815,Downsizing,5.8,121000,64,"Drama, Fantasy, Sci-Fi",R,2017,2h 15m,"Matt Damon, Christoph Waltz, Hong Chau, Kristen Wiig",Alexander Payne,55003890,6.80E+07
+816,Ma,5.6,59000,53,"Horror, Mystery, Thriller",R,2019,1h 39m,"Octavia Spencer, Diana Silvers, Juliette Lewis, McKaley Miller",Tate Taylor,51749995,5.00E+06
+817,Ghostbusters II,6.6,219000,56,"Action, Comedy, Fantasy",PG,1989,1h 48m,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",Ivan Reitman,215394738,3.70E+07
+818,The Crow,7.5,196000,71,"Action, Crime, Drama",R,1994,1h 42m,"Brandon Lee, Michael Wincott, Rochelle Davis, Ernie Hudson",Alex Proyas,50694672,2.30E+07
+819,The Mummy Returns,6.4,341000,48,"Action, Adventure, Fantasy",PG-13,2001,2h 10m,"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",Stephen Sommers,443280904,9.80E+07
+820,Public Enemies,7,315000,70,"Action, Biography, Crime",R,2009,2h 20m,"Christian Bale, Johnny Depp, Christian Stolte, Jason Clarke",Michael Mann,214104620,1.00E+08
+821,Knocked Up,6.9,381000,85,"Comedy, Romance",R,2007,2h 9m,"Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann",Judd Apatow,219922417,3.00E+07
+822,The Living Daylights,6.7,104000,59,"Action, Adventure, Thriller",PG,1987,2h 10m,"Timothy Dalton, Maryam d'Abo, Jeroen Krabbé, Joe Don Baker",John Glen,191185897,4.00E+07
+823,Gone Baby Gone,7.6,285000,72,"Crime, Drama, Mystery",R,2007,1h 54m,"Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan",Ben Affleck,34619699,1.90E+07
+824,Old School,7,241000,54,Comedy,R,2003,1h 28m,"Luke Wilson, Vince Vaughn, Will Ferrell, Jeremy Piven",Todd Phillips,87135520,2.40E+07
+825,The Princess Diaries,6.4,160000,52,"Comedy, Family, Romance",G,2001,1h 55m,"Julie Andrews, Anne Hathaway, Hector Elizondo, Heather Matarazzo",Garry Marshall,165335153,3.70E+07
+826,99 Moons,5.1,2300,NA,NA,Unrated,2022,1h 50m,NA,NA,0,0
+827,Porky's,6.2,45000,40,Comedy,R,1981,1h 34m,"Dan Monahan, Mark Herrier, Wyatt Knight, Roger Wilson",Bob Clark,125728258,4.00E+06
+828,The Waterboy,6.1,175000,41,"Comedy, Sport",PG-13,1998,1h 30m,"Adam Sandler, Kathy Bates, Henry Winkler, Fairuza Balk",Frank Coraci,185991646,2.30E+07
+829,Mona Lisa Smile,6.5,89000,45,Drama,PG-13,2003,1h 57m,"Julia Roberts, Kirsten Dunst, Julia Stiles, Maggie Gyllenhaal",Mike Newell,0,6.50E+07
+830,Adventures in Babysitting,6.9,48000,45,"Adventure, Comedy, Crime",PG-13,1987,1h 42m,"Elisabeth Shue, Maia Brewton, Keith Coogan, Anthony Rapp",Chris Columbus,34368475,7.00E+06
+831,Infinite,5.5,59000,28,"Action, Sci-Fi, Thriller",PG-13,2021,1h 46m,"Mark Wahlberg, Chiwetel Ejiofor, Sophie Cookson, Dylan O'Brien",Antoine Fuqua,0,0
+832,Empire of the Sun,7.7,133000,62,"Drama, War",PG,1987,2h 33m,"Christian Bale, John Malkovich, Miranda Richardson, Nigel Havers",Steven Spielberg,66700000,3.50E+07
+833,Young Frankenstein,8,167000,83,Comedy,PG,1974,1h 46m,"Gene Wilder, Madeline Kahn, Marty Feldman, Peter Boyle",Mel Brooks,86273333,2800000
+834,This Is Spinal Tap,7.9,145000,92,"Comedy, Music",R,1984,1h 22m,"Rob Reiner, Michael McKean, Christopher Guest, Kimberly Stringer",Rob Reiner,4736202,2500000
+835,The Blues Brothers,7.9,210000,60,"Action, Adventure, Comedy",R,1980,2h 13m,"John Belushi, Dan Aykroyd, Cab Calloway, John Candy",John Landis,115229890,2.70E+07
+836,Miss Peregrine's Home for Peculiar Children,6.7,185000,57,"Adventure, Drama, Family",PG-13,2016,2h 7m,"Eva Green, Asa Butterfield, Samuel L. Jackson, Judi Dench",Tim Burton,296482446,1.10E+08
+837,Van Helsing,6.1,281000,35,"Action, Adventure, Fantasy",PG-13,2004,2h 11m,"Hugh Jackman, Kate Beckinsale, Richard Roxburgh, Shuler Hensley",Stephen Sommers,300257475,1.60E+08
+838,Lolita,7.5,107000,79,"Crime, Drama, Romance",NA,1962,2h 33m,"James Mason, Shelley Winters, Sue Lyon, Gary Cockrell",Stanley Kubrick,9250000,2.00E+06
+839,The Founder,7.2,171000,66,"Biography, Drama",PG-13,2016,1h 55m,"Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini",John Lee Hancock,24121245,1.50E+07
+840,Dog Day Afternoon,8,270000,86,"Biography, Crime, Drama",R,1975,2h 5m,"Al Pacino, John Cazale, Penelope Allen, Sully Boyar",Sidney Lumet,46665856,1800000
+841,The Spy Who Loved Me,7,115000,55,"Action, Adventure, Thriller",PG,1977,2h 5m,"Roger Moore, Barbara Bach, Curd Jürgens, Richard Kiel",Lewis Gilbert,185438673,1.30E+07
+842,Zoolander,6.5,287000,61,Comedy,PG-13,2001,1h 30m,"Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell",Ben Stiller,60780981,2.80E+07
+843,The Ring,7.1,370000,57,"Horror, Mystery",PG-13,2002,1h 55m,"Naomi Watts, Martin Henderson, Brian Cox, David Dorfman",Gore Verbinski,249348933,4.80E+07
+844,Million Dollar Baby,8.1,713000,86,"Drama, Sport",PG-13,2004,2h 12m,"Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel",Clint Eastwood,216763646,3.00E+07
+845,Identity,7.3,263000,64,"Mystery, Thriller",R,2003,1h 30m,"John Cusack, Ray Liotta, Amanda Peet, John Hawkes",James Mangold,90259536,2.80E+07
+846,Bombshell,6.8,124000,64,"Biography, Drama",R,2019,1h 49m,"Charlize Theron, Nicole Kidman, Margot Robbie, John Lithgow",Jay Roach,61404394,3.20E+07
+847,A California Christmas,5.8,11000,NA,NA,PG-13,2020,1h 46m,NA,NA,0,0
+848,The Divergent Series: Insurgent,6.2,251000,42,"Action, Adventure, Sci-Fi",PG-13,2015,1h 59m,"Shailene Woodley, Ansel Elgort, Theo James, Kate Winslet",Robert Schwentke,NA,NA
+849,The Guilty,6.3,143000,63,"Crime, Drama, Thriller",R,2021,1h 30m,"Jake Gyllenhaal, Riley Keough, Peter Sarsgaard, Christina Vidal",Antoine Fuqua,0,0
+850,Leave the World Behind,7.7,2300,NA,NA,Unrated,2014,1h 35m,NA,NA,0,750000
+851,The Three Musketeers,5.7,111000,35,"Action, Adventure, Fantasy",PG-13,2011,1h 50m,"Logan Lerman, Matthew Macfadyen, Ray Stevenson, Milla Jovovich",Paul W.S. Anderson,132274484,7.50E+07
+852,The School for Good and Evil,5.9,34000,30,"Action, Comedy, Drama",PG-13,2022,2h 27m,"Kit Young, Sophia Anne Caruso, Cate Blanchett, Liam Woon",Paul Feig,0,0
+853,Killing Me Softly,5.4,19000,NA,NA,Unrated,2002,1h 40m,NA,NA,7775138,2.50E+07
+854,Hidden,6.4,25000,NA,NA,R,2015,1h 24m,NA,NA,0,0
+855,Witness,7.4,103000,76,"Drama, Romance, Thriller",R,1985,1h 52m,"Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer",Peter Weir,68706993,1.20E+07
+856,Inside Man,7.6,392000,76,"Crime, Drama, Mystery",R,2006,2h 9m,"Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer",Spike Lee,186003591,4.50E+07
+857,Robin Hood: Men in Tights,6.7,134000,44,"Adventure, Comedy, Musical",PG-13,1993,1h 44m,"Cary Elwes, Richard Lewis, Roger Rees, Amy Yasbeck",Mel Brooks,35739755,2.00E+07
+858,Dogville,8,156000,61,"Crime, Drama",R,2003,2h 58m,"Nicole Kidman, Paul Bettany, Lauren Bacall, Harriet Andersson",Lars von Trier,16680836,1.00E+07
+859,Midnight in Paris,7.6,444000,81,"Comedy, Fantasy, Romance",PG-13,2011,1h 34m,"Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller",Woody Allen,151119219,1.70E+07
+860,Backdraft,6.7,86000,39,"Action, Drama, Mystery",R,1991,2h 17m,"Kurt Russell, William Baldwin, Robert De Niro, Donald Sutherland",Ron Howard,152368585,7.50E+07
+861,Casper,6.2,145000,49,"Comedy, Family, Fantasy",PG,1995,1h 40m,"Bill Pullman, Christina Ricci, Cathy Moriarty, Eric Idle",Brad Silberling,287928194,5.00E+07
+862,Dangerous Game: The Legacy Murders,4.4,1800,NA,NA,R,2022,1h 36m,NA,NA,0,0
+863,Liar Liar,6.9,328000,70,"Comedy, Fantasy",PG-13,1997,1h 26m,"Jim Carrey, Maura Tierney, Amanda Donohoe, Jennifer Tilly",Tom Shadyac,302710615,4.50E+07
+864,Hall Pass,5.9,130000,45,"Comedy, Romance",R,2011,1h 45m,"Owen Wilson, Jason Sudeikis, Christina Applegate, Jenna Fischer",Bobby FarrellyPeter Farrelly,83200000,3.60E+07
+865,The Intern,7.1,269000,51,"Comedy, Drama",PG-13,2015,2h 1m,"Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",Nancy Meyers,194564672,3.50E+07
+866,The Princess and the Frog,7.1,162000,73,"Animation, Adventure, Comedy",G,2009,1h 37m,"Anika Noni Rose, Keith David, Oprah Winfrey, Bruno Campos",Ron ClementsJohn Musker,270997378,1.05E+08
+867,The Nativity Story,6.8,12000,52,"Adventure, Drama, Family",PG,2006,1h 41m,"Keisha Castle-Hughes, Shohreh Aghdashloo, Oscar Isaac, Hiam Abbass",Catherine Hardwicke,0,3.50E+07
+868,The Girl on the Train,6.5,197000,48,"Crime, Drama, Mystery",R,2016,1h 52m,"Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",Tate Taylor,173185859,4.50E+07
+869,Addams Family Values,6.8,108000,61,"Comedy, Fantasy",PG-13,1993,1h 34m,"Anjelica Huston, Raul Julia, Christopher Lloyd, Joan Cusack",Barry Sonnenfeld,48919043,4.70E+07
+870,The Graduate,8,285000,83,"Comedy, Drama, Romance",PG,1967,1h 46m,"Dustin Hoffman, Anne Bancroft, Katharine Ross, William Daniels",Mike Nichols,104945305,3.00E+06
+871,Megan Is Missing,4.6,15000,NA,NA,NA,2011,1h 25m,NA,NA,0,0
+872,The Poughkeepsie Tapes,6,24000,NA,NA,R,2007,1h 21m,NA,NA,0,0
+873,Pitch Black,7,251000,49,"Action, Horror, Sci-Fi",R,2000,1h 49m,"Radha Mitchell, Cole Hauser, Vin Diesel, Keith David",David Twohy,53187659,2.30E+07
+874,Hercules,6,163000,47,"Action, Adventure, Fantasy",PG-13,2014,1h 38m,"Dwayne Johnson, John Hurt, Ian McShane, Joseph Fiennes",Brett Ratner,252712101,8.50E+07
+875,The Visit,6.2,147000,55,"Horror, Mystery, Thriller",PG-13,2015,1h 34m,"Olivia DeJonge, Ed Oxenbould, Deanna Dunagan, Peter McRobbie",M. Night Shyamalan,98450062,5.00E+06
+876,This Is Where I Leave You,6.6,88000,44,"Comedy, Drama",R,2014,1h 43m,"Jason Bateman, Tina Fey, Jane Fonda, Adam Driver",Shawn Levy,41296320,19800000
+877,Contagion,6.8,313000,70,"Drama, Thriller",PG-13,2011,1h 46m,"Matt Damon, Kate Winslet, Jude Law, Gwyneth Paltrow",Steven Soderbergh,137551594,6.00E+07
+878,A Series of Unfortunate Events,6.8,218000,62,"Adventure, Comedy, Family",PG,2004,1h 48m,"Jim Carrey, Jude Law, Meryl Streep, Liam Aiken",Brad Silberling,0,0
+879,The Knight Before Christmas,5.6,20000,NA,NA,TV-PG,2019,1h 32m,NA,NA,0,0
+880,Lincoln,7.3,270000,87,"Biography, Drama, History",PG-13,2012,2h 30m,"Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt",Steven Spielberg,275293450,6.50E+07
+881,I Believe in Santa,4.5,4000,NA,NA,PG,2022,1h 29m,NA,NA,0,0
+882,The Blind Side,7.6,355000,53,"Biography, Drama, Sport",PG-13,2009,2h 9m,"Quinton Aaron, Sandra Bullock, Tim McGraw, Jae Head",John Lee Hancock,309208309,2.90E+07
+883,X-Men: The Last Stand,6.6,535000,58,"Action, Adventure, Sci-Fi",PG-13,2006,1h 44m,"Patrick Stewart, Hugh Jackman, Halle Berry, Famke Janssen",Brett Ratner,459359555,2.10E+08
+884,Exodus: Gods and Kings,6,176000,52,"Action, Adventure, Drama",PG-13,2014,2h 30m,"Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver",Ridley Scott,268031828,1.40E+08
+885,Ever After: A Cinderella Story,7.1,81000,66,"Drama, Romance",PG-13,1998,2h 1m,"Drew Barrymore, Anjelica Huston, Dougray Scott, Patrick Godfrey",Andy Tennant,NA,NA
+886,Iron Man 2,6.9,856000,57,"Action, Sci-Fi",PG-13,2010,2h 4m,"Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow, Don Cheadle",Jon Favreau,623933331,2.00E+08
+887,Blended,6.5,141000,31,"Comedy, Romance",PG-13,2014,1h 57m,"Adam Sandler, Drew Barrymore, Wendi McLendon-Covey, Kevin Nealon",Frank Coraci,127994610,4.00E+07
+888,Real Steel,7.1,350000,56,"Action, Drama, Sci-Fi",PG-13,2011,2h 7m,"Hugh Jackman, Evangeline Lilly, Dakota Goyo, Anthony Mackie",Shawn Levy,299268508,1.10E+08
+889,The Incredible Hulk,6.6,517000,61,"Action, Adventure, Sci-Fi",PG-13,2008,1h 52m,"Edward Norton, Liv Tyler, Tim Roth, William Hurt",Louis Leterrier,163712074,1.50E+08
+890,Anna Karenina,6.6,105000,63,"Drama, Romance",R,2012,2h 9m,"Keira Knightley, Jude Law, Aaron Taylor-Johnson, Matthew Macfadyen",Joe Wright,68929150,0
+891,The Seven Year Itch,7.1,42000,NA,NA,NA,1955,1h 45m,NA,NA,1.20E+07,1800000
+892,Incredibles 2,7.6,322000,80,"Animation, Action, Adventure",PG,2018,1h 58m,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner",Brad Bird,1242805359,2.00E+08
+893,Bedazzled,6.1,111000,49,"Comedy, Fantasy",PG-13,2000,1h 33m,"Brendan Fraser, Elizabeth Hurley, Frances O'Connor, Miriam Shor",Harold Ramis,90383208,4.80E+07
+894,Captain America: The Winter Soldier,7.8,887000,70,"Action, Adventure, Sci-Fi",PG-13,2014,2h 16m,"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",Anthony RussoJoe Russo,714766572,1.70E+08
+895,Insomnia,7.2,313000,78,"Drama, Mystery, Thriller",R,2002,1h 58m,"Al Pacino, Robin Williams, Hilary Swank, Martin Donovan",Christopher Nolan,113714830,4.60E+07
+896,Munich,7.5,236000,74,"Action, Drama, History",R,2005,2h 44m,"Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds",Steven Spielberg,130982129,7.00E+07
+897,Inferno,6.2,187000,42,"Action, Adventure, Crime",PG-13,2016,2h 1m,"Tom Hanks, Felicity Jones, Irrfan Khan, Ben Foster",Ron Howard,220021259,7.50E+07
+898,The Aviator,7.5,379000,77,"Biography, Drama",PG-13,2004,2h 50m,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly",Martin Scorsese,213700000,1.10E+08
+899,Planet Terror,7,221000,NA,NA,R,2007,1h 45m,NA,NA,0,0
+900,Grown Ups 2,5.4,166000,19,Comedy,PG-13,2013,1h 41m,"Adam Sandler, Kevin James, Chris Rock, David Spade",Dennis Dugan,247022278,8.00E+07
+901,"Me, Myself & Irene",6.6,248000,49,Comedy,R,2000,1h 56m,"Jim Carrey, Renée Zellweger, Anthony Anderson, Mongo Brownlee",Bobby FarrellyPeter Farrelly,149270999,5.10E+07
+902,Sweet Home Alabama,6.2,122000,45,"Comedy, Romance",PG-13,2002,1h 48m,"Reese Witherspoon, Patrick Dempsey, Josh Lucas, Candice Bergen",Andy Tennant,180622424,3.00E+07
+903,Instant Family,7.3,117000,57,"Comedy, Drama",PG-13,2018,1h 58m,"Mark Wahlberg, Rose Byrne, Isabela Merced, Gustavo Escobar",Sean Anders,120989656,4.80E+07
+904,Bad Boys,6.8,281000,41,"Action, Comedy, Crime",R,1995,1h 59m,"Will Smith, Martin Lawrence, Lisa Boyle, Michael Taliferro",Michael Bay,141407024,1.90E+07
+905,Joy,6.6,143000,56,"Biography, Drama",PG-13,2015,2h 4m,"Jennifer Lawrence, Robert De Niro, Bradley Cooper, Edgar Ramírez",David O. Russell,101134059,6.00E+07
+906,Spy,7,255000,75,"Action, Comedy",R,2015,2h,"Melissa McCarthy, Rose Byrne, Jude Law, Jason Statham",Paul Feig,235666219,6.50E+07
+907,Signs,6.8,381000,59,"Drama, Mystery, Sci-Fi",PG-13,2002,1h 46m,"Mel Gibson, Joaquin Phoenix, Rory Culkin, Abigail Breslin",M. Night Shyamalan,408247917,7.20E+07
+908,An American Werewolf in London,7.5,118000,55,"Comedy, Horror",R,1981,1h 37m,"David Naughton, Jenny Agutter, Joe Belcher, Griffin Dunne",John Landis,31973249,1.00E+07
+909,War Dogs,7.1,245000,57,"Biography, Comedy, Crime",R,2016,1h 54m,"Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner",Todd Phillips,86234523,4.00E+07
+910,Fifty Shades Darker,4.6,109000,33,"Drama, Romance, Thriller",R,2017,1h 58m,"Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford",James Foley,378827494,5.50E+07
+911,Contact,7.5,289000,62,"Drama, Mystery, Sci-Fi",PG,1997,2h 30m,"Jodie Foster, Matthew McConaughey, Tom Skerritt, John Hurt",Robert Zemeckis,171120329,9.00E+07
+912,In the Heart of the Sea,6.9,147000,47,"Action, Adventure, Biography",PG-13,2015,2h 2m,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson, Ben Whishaw",Ron Howard,93920758,1.00E+08
+913,Dark City,7.6,210000,66,"Fantasy, Mystery, Sci-Fi",R,1998,1h 40m,"Rufus Sewell, Kiefer Sutherland, Jennifer Connelly, William Hurt",Alex Proyas,27200316,2.70E+07
+914,DogMan,6.7,2000,37,"Drama, Thriller",R,2023,1h 53m,"Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham, Clemens Schick",Luc Besson,0,22700000
+915,Elysium,6.6,466000,61,"Action, Drama, Sci-Fi",R,2013,1h 49m,"Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga",Neill Blomkamp,286140700,1.15E+08
+916,6 Underground,6.1,192000,41,"Action, Thriller",R,2019,2h 8m,"Ryan Reynolds, Mélanie Laurent, Manuel Garcia-Rulfo, Ben Hardy",Michael Bay,0,1.50E+08
+917,Who Framed Roger Rabbit,7.7,213000,83,"Animation, Adventure, Comedy",PG,1988,1h 44m,"Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer",Robert Zemeckis,329803958,7.00E+07
+918,King Arthur,6.3,174000,46,"Action, Adventure, Drama",PG-13,2004,2h 6m,"Clive Owen, Stephen Dillane, Keira Knightley, Ioan Gruffudd",Antoine Fuqua,203567857,1.20E+08
+919,Lie with Me,5.2,16000,NA,NA,NA,2005,1h 33m,NA,NA,0,2200000
+920,Willow,7.2,129000,47,"Action, Adventure, Drama",PG,1988,2h 6m,"Val Kilmer, Joanne Whalley, Warwick Davis, Jean Marsh",Ron Howard,57269863,3.50E+07
+921,All I Want for Christmas,5.9,5500,NA,NA,G,1991,1h 32m,NA,NA,14812000,0
+922,Zombieland: Double Tap,6.7,196000,55,"Action, Comedy, Horror",R,2019,1h 39m,"Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin",Ruben Fleischer,122801777,4.20E+07
+923,Fast & Furious Presents: Hobbs & Shaw,6.5,231000,60,"Action, Adventure, Thriller",PG-13,2019,2h 17m,"Dwayne Johnson, Jason Statham, Idris Elba, Vanessa Kirby",David Leitch,760098996,2.00E+08
+924,Cloverfield,7,416000,64,"Horror, Sci-Fi, Thriller",PG-13,2008,1h 25m,"Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller",Matt Reeves,170764026,2.50E+07
+925,Disquiet,3.8,1100,NA,NA,R,2023,1h 25m,NA,NA,0,0
+926,Vice,7.2,159000,61,"Biography, Comedy, Drama",R,2018,2h 12m,"Christian Bale, Amy Adams, Steve Carell, Sam Rockwell",Adam McKay,76073488,6.00E+07
+927,The Wedding Singer,6.9,160000,59,"Comedy, Music, Romance",PG-13,1998,1h 37m,"Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert",Frank Coraci,123306987,1.80E+07
+928,Resident Evil,6.6,284000,33,"Action, Horror, Sci-Fi",R,2002,1h 40m,"Milla Jovovich, Michelle Rodriguez, Ryan McCluskey, Oscar Pearce",Paul W.S. Anderson,102984862,3.30E+07
+929,Pixels,5.6,156000,27,"Action, Comedy, Fantasy",PG-13,2015,1h 45m,"Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage",Chris Columbus,244874809,8.80E+07
+930,Into the Woods,5.9,147000,69,"Adventure, Comedy, Drama",PG,2014,2h 5m,"Anna Kendrick, Meryl Streep, Chris Pine, Emily Blunt",Rob Marshall,212902372,5.00E+07
+931,Halloween,7.7,302000,87,"Horror, Thriller",R,1978,1h 31m,"Donald Pleasence, Jamie Lee Curtis, Tony Moran, Nancy Kyes",John Carpenter,70274000,325000
+932,Spy Game,7.1,165000,63,"Action, Crime, Thriller",R,2001,2h 6m,"Robert Redford, Brad Pitt, Catherine McCormack, Stephen Dillane",Tony Scott,143049560,1.15E+08
+933,Beautiful Disaster,5.3,9600,NA,NA,R,2023,1h 36m,NA,NA,0,0
+934,Back to the Future Part II,7.8,563000,57,"Adventure, Comedy, Sci-Fi",PG,1989,1h 48m,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Tom Wilson",Robert Zemeckis,3.32E+08,4.00E+07
+935,Fatal Attraction,6.9,95000,67,"Drama, Thriller",R,1987,1h 59m,"Michael Douglas, Glenn Close, Anne Archer, Ellen Latzen",Adrian Lyne,320145693,1.40E+07
+936,Ocean's Twelve,6.5,409000,58,"Crime, Thriller",PG-13,2004,2h 5m,"George Clooney, Brad Pitt, Julia Roberts, Catherine Zeta-Jones",Steven Soderbergh,362744280,1.10E+08
+937,Bruce Almighty,6.8,426000,46,"Comedy, Fantasy",PG-13,2003,1h 41m,"Jim Carrey, Jennifer Aniston, Morgan Freeman, Philip Baker Hall",Tom Shadyac,484592874,8.00E+07
+938,What's New Pussycat,6.1,11000,NA,NA,Approved,1965,1h 48m,NA,NA,NA,NA
+939,Diamonds Are Forever,6.5,113000,59,"Action, Adventure, Thriller",GP,1971,2h,"Sean Connery, Jill St. John, Charles Gray, Lana Wood",Guy Hamilton,116019547,7200000
+940,Life of Pi,7.9,658000,79,"Adventure, Drama, Fantasy",PG,2012,2h 7m,"Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu",Ang Lee,609016565,1.20E+08
+941,Red Dragon,7.2,287000,60,"Crime, Drama, Thriller",R,2002,2h 4m,"Anthony Hopkins, Edward Norton, Ralph Fiennes, Harvey Keitel",Brett Ratner,209196298,7.80E+07
+942,Ocean's Thirteen,6.9,363000,62,"Crime, Thriller",PG-13,2007,2h 2m,"George Clooney, Brad Pitt, Matt Damon, Michael Mantell",Steven Soderbergh,311312624,8.50E+07
+943,Kevin Hart & Chris Rock: Headliners Only,6.4,345,NA,NA,TV-MA,2023,1h 22m,NA,NA,0,0
+944,A Beauty & The Beast Christmas,4.4,400,NA,NA,TV-G,2019,1h 30m,NA,NA,0,0
+945,Da 'Partments,9.3,82,NA,NA,NA,2023,1h 19m,NA,NA,0,55000
+946,The Whole Nine Yards,6.7,128000,47,"Comedy, Crime",R,2000,1h 38m,"Bruce Willis, Matthew Perry, Rosanna Arquette, Michael Clarke Duncan",Jonathan Lynn,106371651,41300000
+947,Monamour,5.2,6200,NA,NA,NA,2005,1h 44m,NA,NA,0,0
+948,The Long Riders,6.9,13000,68,"Biography, Crime, Drama",R,1980,1h 40m,"David Carradine, Stacy Keach, Dennis Quaid, Keith Carradine",Walter Hill,15795189,1.00E+07
+949,Wild at Heart,7.2,99000,52,"Crime, Drama, Thriller",R,1990,2h 5m,"Nicolas Cage, Laura Dern, Willem Dafoe, J.E. Freeman",David Lynch,14560247,9500000
+950,Burn After Reading,7,348000,63,"Comedy, Crime, Drama",R,2008,1h 36m,"Brad Pitt, Frances McDormand, George Clooney, John Malkovich",Ethan CoenJoel Coen,163720069,3.70E+07
+951,Close Encounters of the Third Kind,7.6,213000,90,"Drama, Sci-Fi",PG,1977,2h 18m,"Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon",Steven Spielberg,306889114,2.00E+07
+952,Hell House LLC Origins: The Carmichael Manor,6.2,4500,NA,NA,NA,2023,1h 38m,NA,NA,0,0
+953,Poltergeist,7.3,177000,79,"Horror, Thriller",PG,1982,1h 54m,"JoBeth Williams, Heather O'Rourke, Craig T. Nelson, Beatrice Straight",Tobe Hooper,122200000,10700000
+954,Jungle Cruise,6.6,208000,50,"Action, Adventure, Comedy",PG-13,2021,2h 7m,"Dwayne Johnson, Emily Blunt, Edgar Ramírez, Jack Whitehall",Jaume Collet-Serra,220889446,2.00E+08
+955,The Man from Earth,7.8,197000,NA,NA,NA,2007,1h 27m,NA,NA,0,2.00E+05
+956,Naked Lunch,6.9,56000,67,Drama,R,1991,1h 55m,"Peter Weller, Judy Davis, Ian Holm, Julian Sands",David Cronenberg,2641357,1.60E+07
+957,A Simple Favor,6.8,159000,67,"Comedy, Crime, Mystery",R,2018,1h 57m,"Anna Kendrick, Blake Lively, Henry Golding, Andrew Rannells",Paul Feig,97644617,2.00E+07
+958,Lamborghini: The Man Behind the Legend,5.4,10000,NA,NA,R,2022,1h 37m,NA,NA,0,0
+959,Norbit,4.2,78000,27,"Comedy, Romance",PG-13,2007,1h 42m,"Eddie Murphy, Thandiwe Newton, Terry Crews, Clifton Powell",Brian Robbins,159313561,1.00E+07
+960,Jarhead,7,203000,58,"Biography, Drama, War",R,2005,2h 5m,"Jake Gyllenhaal, Jamie Foxx, Lucas Black, Scott MacDonald",Sam Mendes,97076152,7.20E+07
+961,Hellboy,6.8,345000,72,"Action, Adventure, Fantasy",PG-13,2004,2h 2m,"Ron Perlman, Doug Jones, Selma Blair, John Hurt",Guillermo del Toro,99318987,6.60E+07
+962,Triangle,6.9,127000,NA,NA,R,2009,1h 39m,NA,NA,1594955,1.20E+07
+963,The Twilight Saga: Breaking Dawn - Part 1,4.9,251000,45,"Adventure, Drama, Fantasy",PG-13,2011,1h 57m,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Gil Birmingham",Bill Condon,712171856,1.10E+08
+964,Layer Cake,7.3,192000,73,"Action, Crime, Drama",R,2004,1h 45m,"Daniel Craig, Sienna Miller, Michael Gambon, Tom Hardy",Matthew Vaughn,11850214,6500000
+965,Jupiter Ascending,5.3,193000,40,"Action, Adventure, Sci-Fi",PG-13,2015,2h 7m,"Channing Tatum, Mila Kunis, Eddie Redmayne, Sean Bean",Lana WachowskiLilly Wachowski,183987723,176000003
+966,Yesterday,6.8,163000,55,"Comedy, Fantasy, Music",PG-13,2019,1h 56m,"Himesh Patel, Lily James, Sophia Di Martino, Ellise Chappell",Danny Boyle,88092097,2.60E+07
+967,Last Train to Christmas,6,3200,NA,NA,NA,2021,1h 50m,NA,NA,0,0
+968,Oldboy,5.8,80000,49,"Action, Drama, Mystery",R,2013,1h 44m,"Josh Brolin, Elizabeth Olsen, Samuel L. Jackson, Sharlto Copley",Spike Lee,15194593,3.00E+06
+969,The Royal Tenenbaums,7.6,309000,76,"Comedy, Drama",R,2001,1h 50m,"Gene Hackman, Gwyneth Paltrow, Anjelica Huston, Ben Stiller",Wes Anderson,71441250,2.10E+07
+970,The Man with the Golden Gun,6.7,112000,43,"Action, Adventure, Thriller",PG,1974,2h 5m,"Roger Moore, Christopher Lee, Britt Ekland, Maud Adams",Guy Hamilton,97572000,7.00E+06
+971,Picture of Beauty,3.4,1600,NA,NA,NA,2017,1h 10m,NA,NA,0,100
+972,The Birdcage,7.2,98000,72,Comedy,R,1996,1h 57m,"Robin Williams, Nathan Lane, Gene Hackman, Dianne Wiest",Mike Nichols,185260553,3.10E+07
+973,Magic Mike,6.1,146000,72,"Comedy, Drama",R,2012,1h 50m,"Channing Tatum, Alex Pettyfer, Olivia Munn, Matthew McConaughey",Steven Soderbergh,167221571,7.00E+06
+974,Independence Day: Resurgence,5.2,187000,32,"Action, Adventure, Sci-Fi",PG-13,2016,2h,"Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe",Roland Emmerich,389681935,1.65E+08
+975,Big Daddy,6.4,230000,41,"Comedy, Drama",PG-13,1999,1h 33m,"Adam Sandler, Joey Lauren Adams, Jon Stewart, Cole Sprouse",Dennis Dugan,234801895,34200000
+976,Walk the Line,7.8,262000,72,"Biography, Drama, Music",PG-13,2005,2h 16m,"Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick",James Mangold,186797986,2.80E+07
+977,Star Trek Beyond,7,256000,68,"Action, Adventure, Sci-Fi",PG-13,2016,2h 2m,"Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",Justin Lin,343471816,1.85E+08
+978,Thelma & Louise,7.6,168000,89,"Adventure, Crime, Drama",R,1991,2h 10m,"Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen",Ridley Scott,45361000,1.60E+07
+979,The Evil Dead,7.4,229000,71,Horror,NC-17,1981,1h 25m,"Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker",Sam Raimi,29612367,350000
+980,The Ten Commandments,7.9,76000,NA,NA,G,1956,3h 40m,NA,NA,122700000,1.30E+07
+981,The Conjuring 2,7.3,295000,65,"Horror, Mystery, Thriller",R,2016,2h 14m,"Vera Farmiga, Patrick Wilson, Madison Wolfe, Frances O'Connor",James Wan,321834351,4.00E+07
+982,Scary Movie 2,5.3,172000,29,"Comedy, Horror",R,2001,1h 23m,"Anna Faris, Marlon Wayans, Antony Acker, Mark Barrett",Keenen Ivory Wayans,141220678,4.50E+07
+983,Witness for the Prosecution,8.4,134000,76,"Crime, Drama, Mystery",Approved,1957,1h 56m,"Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester",Billy Wilder,9.00E+06,3.00E+06
+984,Moonrise Kingdom,7.8,364000,84,"Adventure, Comedy, Drama",PG-13,2012,1h 34m,"Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray",Wes Anderson,68263166,1.60E+07
+985,The Voyeur,5.5,3800,NA,NA,NA,1994,1h 38m,NA,NA,0,0
+986,Knight and Day,6.3,208000,46,"Action, Adventure, Comedy",PG-13,2010,1h 49m,"Tom Cruise, Cameron Diaz, Peter Sarsgaard, Jordi Mollà",James Mangold,261989769,1.17E+08
+987,Poseidon,5.7,109000,50,"Action, Adventure, Thriller",PG-13,2006,1h 38m,"Richard Dreyfuss, Kurt Russell, Emmy Rossum, Josh Lucas",Wolfgang Petersen,181674817,1.60E+08
+988,After Hours,7.6,78000,90,"Comedy, Crime, Drama",R,1985,1h 37m,"Griffin Dunne, Rosanna Arquette, Verna Bloom, Tommy Chong",Martin Scorsese,10609321,4500000
+989,Night at the Museum: Battle of the Smithsonian,6,209000,42,"Adventure, Comedy, Family",PG,2009,1h 45m,"Ben Stiller, Owen Wilson, Amy Adams, Hank Azaria",Shawn Levy,413106170,1.50E+08
+990,Charlie's Angels,5.6,194000,52,"Action, Adventure, Comedy",PG-13,2000,1h 38m,"Cameron Diaz, Drew Barrymore, Lucy Liu, Bill Murray",McG,264105545,9.20E+07
+991,Spy Kids,5.6,125000,71,"Action, Adventure, Comedy",PG,2001,1h 28m,"Alexa PenaVega, Daryl Sabara, Antonio Banderas, Carla Gugino",Robert Rodriguez,147934180,3.50E+07
+992,Bananas,6.9,37000,67,Comedy,PG-13,1971,1h 22m,"Woody Allen, Louise Lasser, Carlos Montalbán, Nati Abascal",Woody Allen,11833696,2.00E+06
+993,Southpaw,7.3,254000,57,"Action, Drama, Sport",R,2015,2h 4m,"Jake Gyllenhaal, Rachel McAdams, Oona Laurence, Forest Whitaker",Antoine Fuqua,91709827,3.00E+07
+994,The Little Mermaid,7.6,286000,88,"Animation, Adventure, Family",G,1989,1h 23m,"Jodi Benson, Samuel E. Wright, Rene Auberjonois, Christopher Daniel Barnes",Ron ClementsJohn Musker,211343479,4.00E+07
+995,Salt,6.4,327000,65,"Action, Thriller",PG-13,2010,1h 40m,"Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski",Phillip Noyce,293329073,1.10E+08
+996,The Christmas Classic,5.2,128,NA,NA,NA,2023,1h 26m,NA,NA,NA,NA
+997,Clash of the Titans,5.8,290000,39,"Action, Adventure, Fantasy",PG-13,2010,1h 46m,"Sam Worthington, Liam Neeson, Ralph Fiennes, Jason Flemyng",Louis Leterrier,493214993,1.25E+08
+998,Hidden Strike,5.3,17000,NA,NA,TV-14,2023,1h 42m,NA,NA,0,8.00E+07
+999,The Ninth Gate,6.7,195000,44,"Mystery, Thriller",R,1999,2h 13m,"Johnny Depp, Frank Langella, Lena Olin, Emmanuelle Seigner",Roman Polanski,58401898,3.80E+07
+1000,Bad Teacher,5.6,211000,47,"Comedy, Romance",R,2011,1h 32m,"Cameron Diaz, Jason Segel, Justin Timberlake, Lucy Punch",Jake Kasdan,216197492,2.00E+07
+1001,The Witches,5.4,45000,47,"Adventure, Comedy, Family",PG,2020,1h 46m,"Anne Hathaway, Octavia Spencer, Stanley Tucci, Chris Rock",Robert Zemeckis,15360553,0
+1002,The Elephant Man,8.2,254000,78,"Biography, Drama",PG,1980,2h 4m,"Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud",David Lynch,26010864,5.00E+06
+1003,Hulk,5.6,276000,54,"Action, Sci-Fi",PG-13,2003,2h 18m,"Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas",Ang Lee,245360480,1.37E+08
+1004,Desperado,7.1,195000,55,"Action, Crime, Drama",R,1995,1h 44m,"Antonio Banderas, Salma Hayek, Joaquim de Almeida, Cheech Marin",Robert Rodriguez,25405445,7.00E+06
+1005,The Apartment,8.3,192000,94,"Comedy, Drama, Romance",Approved,1960,2h 5m,"Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",Billy Wilder,2.50E+07,3.00E+06
+1006,St. Elmo's Fire,6.4,45000,35,"Drama, Romance",R,1985,1h 50m,"Demi Moore, Rob Lowe, Andrew McCarthy, Emilio Estevez",Joel Schumacher,37803872,0
+1007,The Pride of the Yankees,7.6,12000,NA,NA,Approved,1942,2h 8m,NA,NA,0,0
+1008,The Island,6.8,325000,50,"Action, Sci-Fi, Thriller",PG-13,2005,2h 16m,"Scarlett Johansson, Ewan McGregor, Djimon Hounsou, Steve Buscemi",Michael Bay,162949164,1.26E+08
+1009,The Fighter,7.8,384000,79,"Action, Biography, Drama",R,2010,1h 56m,"Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo",David O. Russell,93617009,2.50E+07
+1010,Death Becomes Her,6.6,129000,56,"Comedy, Fantasy, Horror",PG-13,1992,1h 44m,"Meryl Streep, Bruce Willis, Goldie Hawn, Isabella Rossellini",Robert Zemeckis,149022650,5.50E+07
+1011,Pinocchio,5.1,41000,38,"Adventure, Comedy, Drama",PG,2022,1h 45m,"Joseph Gordon-Levitt, Tom Hanks, Benjamin Evan Ainsworth, Angus Wright",Robert Zemeckis,84300000,2600000
+1012,The Jungle Book,7.4,289000,77,"Animation, Action, Adventure",PG,2016,1h 46m,"Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",Jon Favreau,966550600,1.75E+08
+1013,Cold Mountain,7.2,154000,73,"Adventure, Drama, Romance",R,2003,2h 34m,"Jude Law, Nicole Kidman, Renée Zellweger, Eileen Atkins",Anthony Minghella,173013509,7.90E+07
+1014,Hollow Man,5.8,137000,24,"Action, Horror, Sci-Fi",R,2000,1h 52m,"Kevin Bacon, Elisabeth Shue, Josh Brolin, Kim Dickens",Paul Verhoeven,190213455,9.50E+07
+1015,Raising Arizona,7.3,148000,69,"Comedy, Crime",PG-13,1987,1h 34m,"Nicolas Cage, Holly Hunter, Trey Wilson, John Goodman",Joel CoenEthan Coen,29180280,6.00E+06
+1016,Sex Tape,5.1,117000,36,"Comedy, Romance",R,2014,1h 34m,"Jason Segel, Cameron Diaz, Rob Corddry, Ellie Kemper",Jake Kasdan,126069509,4.00E+07
+1017,Bridge of Spies,7.6,324000,81,"Drama, History, Thriller",PG-13,2015,2h 22m,"Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan",Steven Spielberg,165478348,4.00E+07
+1018,The Titfield Thunderbolt,7,3200,NA,NA,NA,1953,1h 24m,NA,NA,0,0
+1019,Memory,5.7,34000,41,"Action, Crime, Thriller",R,2022,1h 54m,"Liam Neeson, Guy Pearce, Taj Atwal, Harold Torres",Martin Campbell,13897255,3.00E+07
+1020,Monsters,6.4,96000,63,"Adventure, Drama, Romance",R,2010,1h 34m,"Scoot McNairy, Whitney Able, Mario Zuniga Benavides, Annalee Jefferies",Gareth Edwards,5639730,5.00E+05
+1021,Serpico,7.7,132000,83,"Biography, Crime, Drama",R,1973,2h 10m,"Al Pacino, John Randolph, Jack Kehoe, Biff McGuire",Sidney Lumet,29800000,3.00E+06
+1022,Draft Day,6.8,65000,54,"Drama, Sport",PG-13,2014,1h 50m,"Kevin Costner, Chadwick Boseman, Jennifer Garner, Frank Langella",Ivan Reitman,28831145,2.50E+07
+1023,Goldfinger,7.7,2.00E+05,87,"Action, Adventure, Thriller",PG,1964,1h 50m,"Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton",Guy Hamilton,124881062,2500000
+1024,Boudica: Queen of War,4.4,1600,NA,NA,R,2023,1h 41m,NA,NA,NA,NA
+1025,Appointment with Death,6.1,5800,NA,NA,PG,1988,1h 42m,NA,NA,960040,0
+1026,We Can Be Heroes,4.7,17000,51,"Action, Comedy, Drama",PG,2020,1h 40m,"YaYa Gosselin, Pedro Pascal, Priyanka Chopra Jonas, Lyon Daniels",Robert Rodriguez,0,0
+1027,The Night Walker,6.3,2300,NA,NA,Passed,1964,1h 26m,NA,NA,0,0
+1028,Occupied City,7.1,141,75,"Documentary, History, War",PG-13,2023,4h 6m,Melanie Hyams,Steve McQueen,0,0
+1029,Drag Me to Hell,6.6,215000,83,Horror,PG-13,2009,1h 39m,"Alison Lohman, Justin Long, Ruth Livier, Lorna Raver",Sam Raimi,90810892,3.00E+07
+1030,Transformers: Age of Extinction,5.6,328000,32,"Action, Adventure, Sci-Fi",PG-13,2014,2h 45m,"Mark Wahlberg, Nicola Peltz Beckham, Jack Reynor, Stanley Tucci",Michael Bay,1104054072,2.10E+08
+1031,The Fly,7.6,198000,79,"Drama, Horror, Sci-Fi",R,1986,1h 36m,"Jeff Goldblum, Geena Davis, John Getz, Joy Boushel",David Cronenberg,60629159,1.50E+07
+1032,Little Giants,6.4,30000,NA,NA,PG,1994,1h 47m,NA,NA,0,0
+1033,American Made,7.1,203000,65,"Action, Comedy, Crime",R,2017,1h 55m,"Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons",Doug Liman,133511855,5.00E+07
